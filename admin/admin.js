@@ -106,7 +106,7 @@
   const DATA_PATH = "data/vehicles.json";
   const SESSION_KEY = "taller_nfc_admin_session";
   const DEFAULT_OWNER = "Blaze151";
-  const DEFAULT_REPO = "taller-nfc";
+  const DEFAULT_REPO = "HGRautomotriz";
   const DEFAULT_BRANCH = "main";
   const MAX_PDF_MB = 8;
 
@@ -407,7 +407,7 @@
       github_user_label: "Usuario u organización de GitHub",
       github_user_placeholder: "ej. hmoralesc",
       repo_label: "Repositorio",
-      repo_placeholder: "ej. taller-nfc",
+      repo_placeholder: "ej. HGRautomotriz",
       branch_label: "Rama",
       token_label: "Token de acceso personal (fine-grained, permiso Contents: Read and write)",
       btn_conectar: "Conectar",
@@ -743,7 +743,7 @@
       github_user_label: "GitHub username or organization",
       github_user_placeholder: "e.g. hmoralesc",
       repo_label: "Repository",
-      repo_placeholder: "e.g. taller-nfc",
+      repo_placeholder: "e.g. HGRautomotriz",
       branch_label: "Branch",
       token_label: "Personal access token (fine-grained, Contents: Read and write permission)",
       btn_conectar: "Connect",
@@ -1233,7 +1233,7 @@
   // por GitHub Pages) para que las fotos recién subidas aparezcan casi al instante:
   // GitHub Pages publica el sitio completo (con retraso), mientras que este contenido
   // crudo refleja el repositorio apenas se guarda el commit.
-  const REPO_OWNER = "Blaze151", REPO_NAME = "taller-nfc", REPO_BRANCH = "main";
+  const REPO_OWNER = "Blaze151", REPO_NAME = "HGRautomotriz", REPO_BRANCH = "main";
   // Datos del taller para los PDFs y mensajes — se toman de data/vehicles.json
   // (db.taller) para que un taller nuevo solo necesite cambiar esos datos,
   // sin tocar código. Los valores de respaldo son solo por si ese dato
@@ -3261,7 +3261,7 @@
     showWhatsAppPrompt(datos.nombre, links);
   }
 
-  const TRACK_BASE_URL = "https://blaze151.github.io/taller-nfc/";
+  const TRACK_BASE_URL = "https://blaze151.github.io/HGRautomotriz/";
 
   function buildWhatsAppOrdenLink({ nombre, telefono, marca, modelo, placas, numero_unidad, id, pdfUrl }) {
     let phone = (telefono || "").replace(/\D/g, "");
