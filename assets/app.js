@@ -198,7 +198,7 @@
   // por GitHub Pages) para que las fotos recién subidas aparezcan casi al instante:
   // GitHub Pages publica el sitio completo (con retraso), mientras que este contenido
   // crudo refleja el repositorio apenas se guarda el commit.
-  const REPO_OWNER = "Blaze151", REPO_NAME = "taller-nfc", REPO_BRANCH = "main";
+  const REPO_OWNER = "Blaze151", REPO_NAME = "HGRautomotriz", REPO_BRANCH = "main";
   function rawUrl(path) {
     if (!path) return "";
     return `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${REPO_BRANCH}/${path}`;
