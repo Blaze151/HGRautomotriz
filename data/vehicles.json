@@ -2785,9 +2785,118 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": null,
+      "servicio_actual": {
+        "id": "svc_1792170641715",
+        "folio": "A024",
+        "tipo": "Pintura General, detallado y otros servicios",
+        "descripcion": "Pintura General\nRetapizado de asientos\nPintura de caja\nPintura en tubería de carga",
+        "nota_interna": "",
+        "km": 337557,
+        "costo": null,
+        "tecnico": "Sergio Guardado",
+        "tiempo_entrega_aprox": "12 - 15 días",
+        "fecha_inicio": "2026-10-16",
+        "estado": "recibido",
+        "actualizado": "2026-10-16",
+        "pago": {
+          "estado": "no_pagado",
+          "metodo": null
+        },
+        "orden_recepcion": {
+          "enviado": false,
+          "aceptado": false,
+          "fecha_envio": null,
+          "fecha_aceptado": null,
+          "inventario": {
+            "exteriores": {
+              "antena": "no",
+              "espejo_lateral": "no",
+              "cristales": "no",
+              "emblema": "no",
+              "tapon_ruedas": "no",
+              "molduras_completas": "no",
+              "tapon_gasolina": "no"
+            },
+            "accesorios": {
+              "gato": "no",
+              "maneral_gato": "no",
+              "llave_ruedas": "no",
+              "estuche_herramientas": "no",
+              "triangulo_seguridad": "no",
+              "llanta_refaccion": "no",
+              "extinguidor": "no"
+            },
+            "gasolina": 0,
+            "danos_notas": ""
+          }
+        },
+        "cotizacion": {
+          "enviado": false,
+          "fecha_envio": null,
+          "pdf_path": null,
+          "items": [
+            {
+              "concepto": "",
+              "cantidad": 1,
+              "costo_unitario": null
+            }
+          ],
+          "incluir_iva": true,
+          "observaciones": "",
+          "aceptado": false,
+          "fecha_aceptado": null
+        },
+        "informe_trabajo": {
+          "enviado": false,
+          "fecha_envio": null,
+          "pdf_path": null
+        },
+        "fechas_etapa": {
+          "recibido": "2026-10-16T17:10:41.715Z"
+        },
+        "adjuntos": {
+          "recibido": {
+            "fotos": [
+              "uploads/A3/20261016-111352-recibido-0-1000861964.jpg",
+              "uploads/A3/20261016-111354-recibido-1-1000861963.jpg",
+              "uploads/A3/20261016-111356-recibido-2-1000861951.jpg",
+              "uploads/A3/20261016-111357-recibido-3-1000861952.jpg",
+              "uploads/A3/20261016-111400-recibido-4-1000861954.jpg",
+              "uploads/A3/20261016-111402-recibido-5-1000861955.jpg",
+              "uploads/A3/20261016-111404-recibido-6-1000861948.jpg",
+              "uploads/A3/20261016-111405-recibido-7-1000861947.jpg",
+              "uploads/A3/20261016-111407-recibido-8-1000861946.jpg",
+              "uploads/A3/20261016-111409-recibido-9-1000861945.jpg",
+              "uploads/A3/20261016-111411-recibido-10-1000861934.jpg",
+              "uploads/A3/20261016-111413-recibido-11-1000861933.jpg",
+              "uploads/A3/20261016-111415-recibido-12-1000861932.jpg"
+            ],
+            "documentos": []
+          },
+          "diagnostico": {
+            "fotos": [],
+            "documentos": []
+          },
+          "en_proceso": {
+            "fotos": [],
+            "documentos": []
+          },
+          "listo": {
+            "fotos": [],
+            "documentos": []
+          },
+          "recogido": {
+            "fotos": [],
+            "documentos": []
+          },
+          "pago": {
+            "fotos": [],
+            "documentos": []
+          }
+        }
+      },
       "servicios": []
     }
   },
-  "folio_counter": 23
+  "folio_counter": 24
 }
