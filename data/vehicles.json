@@ -2832,9 +2832,9 @@
           "pdf_path": "uploads/A3/20261016-111856-informe-recepcion.pdf"
         },
         "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
+          "enviado": true,
+          "fecha_envio": "2026-10-16",
+          "pdf_path": "uploads/A3/20261016-113339-cotizacion.pdf",
           "items": [
             {
               "concepto": "Enderezado de golpes en carrocería, tapa trasera muy dañada, techo muy golpeado, defensa trasera derecha",
@@ -2857,11 +2857,6 @@
               "costo_unitario": 1500
             },
             {
-              "concepto": "Pintura en bed liner de caja de carga color negro semi mate",
-              "cantidad": 1,
-              "costo_unitario": 700
-            },
-            {
               "concepto": "Retapizado de asientos delanteros con relleno de espuma automotriz",
               "cantidad": 1,
               "costo_unitario": 3500
@@ -2874,12 +2869,12 @@
             {
               "concepto": "Limpieza general, de interiores a profundidad, limpieza sin agua a motor",
               "cantidad": 1,
-              "costo_unitario": 800
+              "costo_unitario": 500
             },
             {
               "concepto": "Pulida de faros principales",
               "cantidad": 1,
-              "costo_unitario": 600
+              "costo_unitario": 400
             },
             {
               "concepto": "Calavera trasera derecha nueva con instalación",
