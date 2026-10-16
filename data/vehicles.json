@@ -2751,6 +2751,42 @@
         }
       },
       "servicios": []
+    },
+    "A3": {
+      "id": "A3",
+      "fecha_creacion": "2026-10-16T17:10:16.668Z",
+      "foto_perfil": "uploads/A3/20261016-111016-perfil.jpg",
+      "documentos_vehiculo": {
+        "fotos": [],
+        "documentos": []
+      },
+      "placas": "FK 4623 D",
+      "numero_unidad": "S-2",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK",
+      "anio": 2016,
+      "version": "",
+      "color": "BLANCO",
+      "combustible": "Gasolina",
+      "vin": "8AWDD42H1GA020755",
+      "km_actual": 337557,
+      "cliente_nombre": "SIEPSA",
+      "cliente_telefono": "871 727 1731",
+      "cliente_telefono_2": "871 223 5779",
+      "cliente_correo": "",
+      "cliente_rfc": "",
+      "cliente_direccion": "",
+      "cliente_actualizado": "2026-10-16T17:10:16.668Z",
+      "ficha_tecnica": {
+        "aceite_tipo": "",
+        "aceite_capacidad": "",
+        "presion_llantas": "",
+        "bateria": "",
+        "filtro_aire": "",
+        "filtro_aceite": ""
+      },
+      "servicio_actual": null,
+      "servicios": []
     }
   },
   "folio_counter": 23
