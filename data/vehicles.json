@@ -3002,7 +3002,7 @@
         "tecnico": "Sergio Guardado",
         "tiempo_entrega_aprox": "30 minutos",
         "fecha_inicio": "2026-10-16",
-        "estado": "diagnostico",
+        "estado": "listo",
         "actualizado": "2026-10-16",
         "pago": {
           "estado": "no_pagado",
@@ -3060,7 +3060,8 @@
         },
         "fechas_etapa": {
           "recibido": "2026-10-16T20:28:33.848Z",
-          "diagnostico": "2026-10-16T20:31:23.313Z"
+          "diagnostico": "2026-10-16T20:31:23.313Z",
+          "listo": "2026-10-16T20:55:18.103Z"
         },
         "adjuntos": {
           "recibido": {
