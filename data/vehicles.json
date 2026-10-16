@@ -2837,9 +2837,54 @@
           "pdf_path": null,
           "items": [
             {
-              "concepto": "",
+              "concepto": "Enderezado de golpes en carrocería, tapa trasera muy dañada, techo muy golpeado, defensa trasera derecha",
               "cantidad": 1,
-              "costo_unitario": null
+              "costo_unitario": 4500
+            },
+            {
+              "concepto": "Pintura en toda la carrocería exterior color blanco",
+              "cantidad": 1,
+              "costo_unitario": 14000
+            },
+            {
+              "concepto": "Reparación de chapa de tapa trasera",
+              "cantidad": 1,
+              "costo_unitario": 500
+            },
+            {
+              "concepto": "Instalación de dos tubos de 98 cm como refuerzo en tubería de carga en la parte del techo de la camioneta y  pintura en toda la estructura",
+              "cantidad": 1,
+              "costo_unitario": 1500
+            },
+            {
+              "concepto": "Pintura en bed liner de caja de carga color negro semi mate",
+              "cantidad": 1,
+              "costo_unitario": 700
+            },
+            {
+              "concepto": "Retapizado de asientos delanteros con relleno de espuma automotriz",
+              "cantidad": 1,
+              "costo_unitario": 3500
+            },
+            {
+              "concepto": "Instalación de estéreo nuevo de pantalla de 10 pulgadas",
+              "cantidad": 1,
+              "costo_unitario": 4500
+            },
+            {
+              "concepto": "Limpieza general, de interiores a profundidad, limpieza sin agua a motor",
+              "cantidad": 1,
+              "costo_unitario": 800
+            },
+            {
+              "concepto": "Pulida de faros principales",
+              "cantidad": 1,
+              "costo_unitario": 600
+            },
+            {
+              "concepto": "Calavera trasera derecha nueva con instalación",
+              "cantidad": 1,
+              "costo_unitario": 2200
             }
           ],
           "incluir_iva": true,
@@ -2890,7 +2935,11 @@
               "uploads/A3/20261016-111926-diagnostico-10-1000879077.jpg",
               "uploads/A3/20261016-111928-diagnostico-11-1000879122.jpg",
               "uploads/A3/20261016-111930-diagnostico-12-1000861946.jpg",
-              "uploads/A3/20261016-111931-diagnostico-13-1000861947.jpg"
+              "uploads/A3/20261016-111931-diagnostico-13-1000861947.jpg",
+              "uploads/A3/20261016-113239-diagnostico-0-1000889851.jpg",
+              "uploads/A3/20261016-113241-diagnostico-1-1000886994.jpg",
+              "uploads/A3/20261016-113243-diagnostico-2-1000861951.jpg",
+              "uploads/A3/20261016-113245-diagnostico-3-1000861945.jpg"
             ],
             "documentos": []
           },
