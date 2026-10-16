@@ -2991,9 +2991,120 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": null,
+      "servicio_actual": {
+        "id": "svc_1792182513848",
+        "folio": "A025",
+        "tipo": "Reparación Express Facia trasera lado derecho",
+        "descripcion": "Pegar facia trasera lado derecho",
+        "nota_interna": "",
+        "km": 207894,
+        "costo": 0,
+        "tecnico": "Sergio Guardado",
+        "tiempo_entrega_aprox": "30 minutos",
+        "fecha_inicio": "2026-10-16",
+        "estado": "diagnostico",
+        "actualizado": "2026-10-16",
+        "pago": {
+          "estado": "no_pagado",
+          "metodo": null
+        },
+        "orden_recepcion": {
+          "enviado": true,
+          "aceptado": false,
+          "fecha_envio": "2026-10-16",
+          "fecha_aceptado": null,
+          "inventario": {
+            "exteriores": {
+              "antena": "si",
+              "espejo_lateral": "si",
+              "cristales": "si",
+              "emblema": "si",
+              "tapon_ruedas": "si",
+              "molduras_completas": "si",
+              "tapon_gasolina": "si"
+            },
+            "accesorios": {
+              "gato": "si",
+              "maneral_gato": "si",
+              "llave_ruedas": "si",
+              "estuche_herramientas": "si",
+              "triangulo_seguridad": "si",
+              "llanta_refaccion": "si",
+              "extinguidor": "si"
+            },
+            "gasolina": 50,
+            "danos_notas": ""
+          },
+          "pdf_path": "uploads/A04/20261016-143023-informe-recepcion.pdf"
+        },
+        "cotizacion": {
+          "enviado": false,
+          "fecha_envio": null,
+          "pdf_path": null,
+          "items": [
+            {
+              "concepto": "",
+              "cantidad": 1,
+              "costo_unitario": null
+            }
+          ],
+          "incluir_iva": true,
+          "observaciones": "",
+          "aceptado": false,
+          "fecha_aceptado": null
+        },
+        "informe_trabajo": {
+          "enviado": false,
+          "fecha_envio": null,
+          "pdf_path": null
+        },
+        "fechas_etapa": {
+          "recibido": "2026-10-16T20:28:33.848Z",
+          "diagnostico": "2026-10-16T20:31:23.313Z"
+        },
+        "adjuntos": {
+          "recibido": {
+            "fotos": [
+              "uploads/A04/20261016-143123-recibido-0-1000887380.jpg",
+              "uploads/A04/20261016-143126-recibido-1-1000887375.jpg",
+              "uploads/A04/20261016-143128-recibido-2-1000887376.jpg",
+              "uploads/A04/20261016-143130-recibido-3-1000887381.jpg",
+              "uploads/A04/20261016-143145-recibido-4-1000887382.jpg",
+              "uploads/A04/20261016-143152-recibido-5-1000887383.jpg",
+              "uploads/A04/20261016-143158-recibido-6-1000887384.jpg",
+              "uploads/A04/20261016-143205-recibido-7-1000887385.jpg",
+              "uploads/A04/20261016-143220-recibido-8-1000887386.jpg",
+              "uploads/A04/20261016-143222-recibido-9-1000887387.jpg",
+              "uploads/A04/20261016-143229-recibido-10-1000887388.jpg",
+              "uploads/A04/20261016-143244-recibido-11-1000890421.jpg",
+              "uploads/A04/20261016-143246-recibido-12-1000887406.jpg"
+            ],
+            "documentos": []
+          },
+          "diagnostico": {
+            "fotos": [],
+            "documentos": []
+          },
+          "en_proceso": {
+            "fotos": [],
+            "documentos": []
+          },
+          "listo": {
+            "fotos": [],
+            "documentos": []
+          },
+          "recogido": {
+            "fotos": [],
+            "documentos": []
+          },
+          "pago": {
+            "fotos": [],
+            "documentos": []
+          }
+        }
+      },
       "servicios": []
     }
   },
-  "folio_counter": 24
+  "folio_counter": 25
 }
