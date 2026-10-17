@@ -2160,7 +2160,7 @@
         "tecnico": "",
         "tiempo_entrega_aprox": "",
         "fecha_inicio": "2026-10-17",
-        "estado": "en_proceso",
+        "estado": "listo",
         "actualizado": "2026-10-17",
         "pago": {
           "estado": "no_pagado",
@@ -2219,7 +2219,8 @@
         "fechas_etapa": {
           "recibido": "2026-10-17T02:35:07.236Z",
           "diagnostico": "2026-10-17T03:18:35.394Z",
-          "en_proceso": "2026-10-17T03:18:57.606Z"
+          "en_proceso": "2026-10-17T03:18:57.606Z",
+          "listo": "2026-10-17T03:19:05.323Z"
         },
         "adjuntos": {
           "recibido": {
