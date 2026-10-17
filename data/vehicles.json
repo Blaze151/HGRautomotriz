@@ -2160,7 +2160,7 @@
         "tecnico": "",
         "tiempo_entrega_aprox": "",
         "fecha_inicio": "2026-10-17",
-        "estado": "diagnostico",
+        "estado": "en_proceso",
         "actualizado": "2026-10-17",
         "pago": {
           "estado": "no_pagado",
@@ -2168,9 +2168,9 @@
         },
         "orden_recepcion": {
           "enviado": true,
-          "aceptado": false,
+          "aceptado": true,
           "fecha_envio": "2026-10-17",
-          "fecha_aceptado": null,
+          "fecha_aceptado": "2026-10-17",
           "inventario": {
             "exteriores": {
               "antena": "si",
@@ -2218,7 +2218,8 @@
         },
         "fechas_etapa": {
           "recibido": "2026-10-17T02:35:07.236Z",
-          "diagnostico": "2026-10-17T03:18:35.394Z"
+          "diagnostico": "2026-10-17T03:18:35.394Z",
+          "en_proceso": "2026-10-17T03:18:57.606Z"
         },
         "adjuntos": {
           "recibido": {
