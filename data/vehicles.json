@@ -2149,111 +2149,110 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": {
-        "id": "svc_1792204507236",
-        "folio": "A026",
-        "tipo": "Cambio de Batería",
-        "descripcion": "Cambio de batería",
-        "nota_interna": "",
-        "km": 186716,
-        "costo": 2375.99,
-        "tecnico": "",
-        "tiempo_entrega_aprox": "",
-        "fecha_inicio": "2026-10-17",
-        "estado": "listo",
-        "actualizado": "2026-10-17",
-        "pago": {
-          "estado": "no_pagado",
-          "metodo": null
-        },
-        "orden_recepcion": {
-          "enviado": true,
-          "aceptado": true,
-          "fecha_envio": "2026-10-17",
-          "fecha_aceptado": "2026-10-17",
-          "inventario": {
-            "exteriores": {
-              "antena": "si",
-              "espejo_lateral": "si",
-              "cristales": "si",
-              "emblema": "si",
-              "tapon_ruedas": "si",
-              "molduras_completas": "si",
-              "tapon_gasolina": "si"
-            },
-            "accesorios": {
-              "gato": "si",
-              "maneral_gato": "si",
-              "llave_ruedas": "si",
-              "estuche_herramientas": "si",
-              "triangulo_seguridad": "si",
-              "llanta_refaccion": "si",
-              "extinguidor": "si"
-            },
-            "gasolina": 50,
-            "danos_notas": ""
-          },
-          "pdf_path": "uploads/X15/20261016-211833-informe-recepcion.pdf"
-        },
-        "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
-          "items": [
-            {
-              "concepto": "",
-              "cantidad": 1,
-              "costo_unitario": null
-            }
-          ],
-          "incluir_iva": true,
-          "observaciones": "",
-          "aceptado": false,
-          "fecha_aceptado": null
-        },
-        "informe_trabajo": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null
-        },
-        "fechas_etapa": {
-          "recibido": "2026-10-17T02:35:07.236Z",
-          "diagnostico": "2026-10-17T03:18:35.394Z",
-          "en_proceso": "2026-10-17T03:18:57.606Z",
-          "listo": "2026-10-17T03:19:05.323Z"
-        },
-        "adjuntos": {
-          "recibido": {
-            "fotos": [],
-            "documentos": []
-          },
-          "diagnostico": {
-            "fotos": [],
-            "documentos": []
-          },
-          "en_proceso": {
-            "fotos": [
-              "uploads/X15/20261016-211738-en_proceso-0-1000891292.jpg",
-              "uploads/X15/20261016-211740-en_proceso-1-1000891293.jpg",
-              "uploads/X15/20261016-211742-en_proceso-2-1000891294.jpg"
-            ],
-            "documentos": []
-          },
-          "listo": {
-            "fotos": [],
-            "documentos": []
-          },
-          "recogido": {
-            "fotos": [],
-            "documentos": []
-          },
-          "pago": {
-            "fotos": [],
-            "documentos": []
-          }
-        }
-      },
+      "servicio_actual": null,
       "servicios": [
+        {
+          "fecha": "2026-10-17",
+          "folio": "A026",
+          "tipo": "Cambio de Batería",
+          "descripcion": "Cambio de batería",
+          "nota_interna": "",
+          "km": 186716,
+          "costo": 2375.99,
+          "tecnico": "",
+          "tiempo_entrega_aprox": "",
+          "fecha_inicio": "2026-10-17",
+          "pago": {
+            "estado": "no_pagado",
+            "metodo": null
+          },
+          "orden_recepcion": {
+            "enviado": true,
+            "aceptado": true,
+            "fecha_envio": "2026-10-17",
+            "fecha_aceptado": "2026-10-17",
+            "inventario": {
+              "exteriores": {
+                "antena": "si",
+                "espejo_lateral": "si",
+                "cristales": "si",
+                "emblema": "si",
+                "tapon_ruedas": "si",
+                "molduras_completas": "si",
+                "tapon_gasolina": "si"
+              },
+              "accesorios": {
+                "gato": "si",
+                "maneral_gato": "si",
+                "llave_ruedas": "si",
+                "estuche_herramientas": "si",
+                "triangulo_seguridad": "si",
+                "llanta_refaccion": "si",
+                "extinguidor": "si"
+              },
+              "gasolina": 50,
+              "danos_notas": ""
+            },
+            "pdf_path": "uploads/X15/20261016-211833-informe-recepcion.pdf"
+          },
+          "cotizacion": {
+            "enviado": false,
+            "fecha_envio": null,
+            "pdf_path": null,
+            "items": [
+              {
+                "concepto": "",
+                "cantidad": 1,
+                "costo_unitario": null
+              }
+            ],
+            "incluir_iva": true,
+            "observaciones": "",
+            "aceptado": false,
+            "fecha_aceptado": null
+          },
+          "informe_trabajo": {
+            "enviado": false,
+            "fecha_envio": null,
+            "pdf_path": null
+          },
+          "fechas_etapa": {
+            "recibido": "2026-10-17T02:35:07.236Z",
+            "diagnostico": "2026-10-17T03:18:35.394Z",
+            "en_proceso": "2026-10-17T03:18:57.606Z",
+            "listo": "2026-10-17T03:19:05.323Z"
+          },
+          "adjuntos": {
+            "recibido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "diagnostico": {
+              "fotos": [],
+              "documentos": []
+            },
+            "en_proceso": {
+              "fotos": [
+                "uploads/X15/20261016-211738-en_proceso-0-1000891292.jpg",
+                "uploads/X15/20261016-211740-en_proceso-1-1000891293.jpg",
+                "uploads/X15/20261016-211742-en_proceso-2-1000891294.jpg"
+              ],
+              "documentos": []
+            },
+            "listo": {
+              "fotos": [],
+              "documentos": []
+            },
+            "recogido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "pago": {
+              "fotos": [],
+              "documentos": []
+            }
+          }
+        },
         {
           "fecha": "2026-10-03",
           "folio": "A021",
