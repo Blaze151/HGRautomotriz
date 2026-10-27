@@ -425,6 +425,7 @@
     },
     "X2": {
       "id": "X2",
+      "fecha_creacion": "2026-10-27T20:03:09.802Z",
       "foto_perfil": "uploads/X2/20260905-100423-perfil.jpg",
       "documentos_vehiculo": {
         "fotos": [],
@@ -443,6 +444,10 @@
       "cliente_nombre": "Diego",
       "cliente_telefono": "871 327 1844",
       "cliente_telefono_2": "",
+      "cliente_correo": "",
+      "cliente_rfc": "",
+      "cliente_direccion": "",
+      "cliente_actualizado": null,
       "ficha_tecnica": {
         "aceite_tipo": "",
         "aceite_capacidad": "",
@@ -451,7 +456,102 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": null,
+      "servicio_actual": {
+        "id": "svc_1793131277677",
+        "folio": "A027",
+        "tipo": "Ruido en el motor",
+        "descripcion": "Reparación de alternador, baleros, mantenimiento \n\nCambio de polea tensora\n\nAjuste en banda",
+        "nota_interna": "",
+        "km": 117217,
+        "costo": 4000,
+        "tecnico": "Sergio G",
+        "tiempo_entrega_aprox": "2 dias",
+        "fecha_inicio": "2026-10-27",
+        "estado": "recibido",
+        "actualizado": "2026-10-27",
+        "pago": {
+          "estado": "no_pagado",
+          "metodo": null
+        },
+        "orden_recepcion": {
+          "enviado": false,
+          "aceptado": false,
+          "fecha_envio": null,
+          "fecha_aceptado": null,
+          "inventario": {
+            "exteriores": {
+              "antena": "no",
+              "espejo_lateral": "no",
+              "cristales": "no",
+              "emblema": "no",
+              "tapon_ruedas": "no",
+              "molduras_completas": "no",
+              "tapon_gasolina": "no"
+            },
+            "accesorios": {
+              "gato": "no",
+              "maneral_gato": "no",
+              "llave_ruedas": "no",
+              "estuche_herramientas": "no",
+              "triangulo_seguridad": "no",
+              "llanta_refaccion": "no",
+              "extinguidor": "no"
+            },
+            "gasolina": 0,
+            "danos_notas": ""
+          }
+        },
+        "cotizacion": {
+          "enviado": false,
+          "fecha_envio": null,
+          "pdf_path": null,
+          "items": [
+            {
+              "concepto": "",
+              "cantidad": 1,
+              "costo_unitario": null
+            }
+          ],
+          "incluir_iva": true,
+          "observaciones": "",
+          "aceptado": false,
+          "fecha_aceptado": null
+        },
+        "informe_trabajo": {
+          "enviado": false,
+          "fecha_envio": null,
+          "pdf_path": null
+        },
+        "fechas_etapa": {
+          "recibido": "2026-10-27T20:01:17.677Z"
+        },
+        "adjuntos": {
+          "recibido": {
+            "fotos": [],
+            "documentos": []
+          },
+          "diagnostico": {
+            "fotos": [],
+            "documentos": []
+          },
+          "en_proceso": {
+            "fotos": [],
+            "documentos": []
+          },
+          "listo": {
+            "fotos": [],
+            "documentos": []
+          },
+          "recogido": {
+            "fotos": [],
+            "documentos": []
+          },
+          "pago": {
+            "fotos": [],
+            "documentos": []
+          }
+        }
+      },
       "servicios": [
         {
           "fecha": "2026-09-11",
@@ -3246,5 +3346,5 @@
       ]
     }
   },
-  "folio_counter": 26
+  "folio_counter": 27
 }
