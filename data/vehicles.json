@@ -3389,7 +3389,7 @@
         "tecnico": "Sergio",
         "tiempo_entrega_aprox": "2 dias",
         "fecha_inicio": "2026-10-28",
-        "estado": "recibido",
+        "estado": "listo",
         "actualizado": "2026-10-28",
         "pago": {
           "estado": "no_pagado",
@@ -3445,7 +3445,8 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-10-28T23:43:02.355Z"
+          "recibido": "2026-10-28T23:43:02.355Z",
+          "listo": "2026-10-28T23:45:59.012Z"
         },
         "adjuntos": {
           "recibido": {
