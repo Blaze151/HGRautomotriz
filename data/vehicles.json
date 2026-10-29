@@ -3544,9 +3544,9 @@
         },
         "orden_recepcion": {
           "enviado": true,
-          "aceptado": false,
+          "aceptado": true,
           "fecha_envio": "2026-10-29",
-          "fecha_aceptado": null,
+          "fecha_aceptado": "2026-10-29",
           "inventario": {
             "exteriores": {
               "antena": "si",
@@ -3576,6 +3576,11 @@
           "fecha_envio": null,
           "pdf_path": null,
           "items": [
+            {
+              "concepto": "Enderezado de cofre, reparación de facia delantera, ajuste en salpicadera izquierda, colocación de faro nuevo lado izquierdo, colocación de moldura de facia delantera lado izquierdo",
+              "cantidad": 1,
+              "costo_unitario": 3800
+            },
             {
               "concepto": "",
               "cantidad": 1,
