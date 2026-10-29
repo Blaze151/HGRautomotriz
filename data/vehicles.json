@@ -368,18 +368,18 @@
           }
         },
         "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
+          "enviado": true,
+          "fecha_envio": "2026-10-29",
+          "pdf_path": "uploads/162/20261029-164923-cotizacion.pdf",
           "items": [
             {
-              "concepto": "",
+              "concepto": "Instalación de pantalla con cámara frontal y de reversa en Van Peugeot",
               "cantidad": 1,
-              "costo_unitario": null
+              "costo_unitario": 4500
             }
           ],
           "incluir_iva": true,
-          "observaciones": "",
+          "observaciones": "Pantalla nueva con camara frontal y de reversa en retrovisor. Funcion de grabado de video de todos los trayectos que realiza el vehículo con memoria MicroSD. GPS para medición de velocidad al momento. Instalación incluida.",
           "aceptado": false,
           "fecha_aceptado": null
         },
@@ -404,7 +404,11 @@
             "documentos": []
           },
           "diagnostico": {
-            "fotos": [],
+            "fotos": [
+              "uploads/162/20261029-164929-diagnostico-0-1000918333.jpg",
+              "uploads/162/20261029-164931-diagnostico-1-1000918332.jpg",
+              "uploads/162/20261029-164935-diagnostico-2-1000918331.jpg"
+            ],
             "documentos": []
           },
           "en_proceso": {
