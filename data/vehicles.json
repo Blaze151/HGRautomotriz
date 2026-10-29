@@ -3536,39 +3536,40 @@
         "tecnico": "Manuel",
         "tiempo_entrega_aprox": "",
         "fecha_inicio": "2026-10-29",
-        "estado": "recibido",
+        "estado": "diagnostico",
         "actualizado": "2026-10-29",
         "pago": {
           "estado": "no_pagado",
           "metodo": null
         },
         "orden_recepcion": {
-          "enviado": false,
+          "enviado": true,
           "aceptado": false,
-          "fecha_envio": null,
+          "fecha_envio": "2026-10-29",
           "fecha_aceptado": null,
           "inventario": {
             "exteriores": {
-              "antena": "no",
-              "espejo_lateral": "no",
-              "cristales": "no",
-              "emblema": "no",
-              "tapon_ruedas": "no",
-              "molduras_completas": "no",
-              "tapon_gasolina": "no"
+              "antena": "si",
+              "espejo_lateral": "si",
+              "cristales": "si",
+              "emblema": "si",
+              "tapon_ruedas": "si",
+              "molduras_completas": "si",
+              "tapon_gasolina": "si"
             },
             "accesorios": {
-              "gato": "no",
-              "maneral_gato": "no",
-              "llave_ruedas": "no",
-              "estuche_herramientas": "no",
-              "triangulo_seguridad": "no",
-              "llanta_refaccion": "no",
-              "extinguidor": "no"
+              "gato": "si",
+              "maneral_gato": "si",
+              "llave_ruedas": "si",
+              "estuche_herramientas": "si",
+              "triangulo_seguridad": "si",
+              "llanta_refaccion": "si",
+              "extinguidor": "si"
             },
-            "gasolina": 0,
+            "gasolina": 50,
             "danos_notas": ""
-          }
+          },
+          "pdf_path": "uploads/A07/20261029-154104-informe-recepcion.pdf"
         },
         "cotizacion": {
           "enviado": false,
@@ -3592,7 +3593,8 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-10-29T21:34:36.304Z"
+          "recibido": "2026-10-29T21:34:36.304Z",
+          "diagnostico": "2026-10-29T21:41:07.734Z"
         },
         "adjuntos": {
           "recibido": {
