@@ -447,7 +447,7 @@
       "cliente_correo": "",
       "cliente_rfc": "",
       "cliente_direccion": "",
-      "cliente_actualizado": null,
+      "cliente_actualizado": "2026-10-27T20:03:09.802Z",
       "ficha_tecnica": {
         "aceite_tipo": "",
         "aceite_capacidad": "",
@@ -467,8 +467,8 @@
         "tecnico": "Sergio G",
         "tiempo_entrega_aprox": "2 dias",
         "fecha_inicio": "2026-10-27",
-        "estado": "recibido",
-        "actualizado": "2026-10-27",
+        "estado": "recogido",
+        "actualizado": "2026-10-29",
         "pago": {
           "estado": "no_pagado",
           "metodo": null
@@ -523,7 +523,8 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-10-27T20:01:17.677Z"
+          "recibido": "2026-10-27T20:01:17.677Z",
+          "recogido": "2026-10-29T02:45:57.531Z"
         },
         "adjuntos": {
           "recibido": {
@@ -535,11 +536,19 @@
             "documentos": []
           },
           "en_proceso": {
-            "fotos": [],
+            "fotos": [
+              "uploads/X2/20261028-204557-en_proceso-0-1000919282.jpg",
+              "uploads/X2/20261028-204559-en_proceso-1-1000919283.jpg"
+            ],
             "documentos": []
           },
           "listo": {
-            "fotos": [],
+            "fotos": [
+              "uploads/X2/20261028-204602-listo-0-1000918134.jpg",
+              "uploads/X2/20261028-204605-listo-1-1000918135.jpg",
+              "uploads/X2/20261028-204607-listo-2-1000918137.jpg",
+              "uploads/X2/20261028-204612-listo-3-1000918138.jpg"
+            ],
             "documentos": []
           },
           "recogido": {
