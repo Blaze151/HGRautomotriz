@@ -3572,23 +3572,23 @@
           "pdf_path": "uploads/A07/20261029-154104-informe-recepcion.pdf"
         },
         "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
+          "enviado": true,
+          "fecha_envio": "2026-10-29",
+          "pdf_path": "uploads/A07/20261029-161410-cotizacion.pdf",
           "items": [
             {
-              "concepto": "Enderezado de cofre, reparación de facia delantera, ajuste en salpicadera izquierda, colocación de faro nuevo lado izquierdo, colocación de moldura de facia delantera lado izquierdo",
+              "concepto": "Enderezado de cofre, reparación de facia delantera, ajuste en salpicadera izquierda, colocación de faro nuevo lado izquierdo, colocación de moldura de facia delantera lado izquierdo, pintura automotriz color blanco",
               "cantidad": 1,
-              "costo_unitario": 3800
+              "costo_unitario": 4200
             },
             {
-              "concepto": "",
+              "concepto": "Faro izquierdo",
               "cantidad": 1,
-              "costo_unitario": null
+              "costo_unitario": 2088
             }
           ],
-          "incluir_iva": true,
-          "observaciones": "",
+          "incluir_iva": false,
+          "observaciones": "El cofre se tiene que enderezar, difuminar el color blanco, y posterior toda la pieza lleva transparente.\n\nLa facia se repararia con pasta automotriz, y después de pintaría. \n\nEl faro es completamente nuevo.\n\nLa moldura de la facia se colocaría la misma que se desprendió.",
           "aceptado": false,
           "fecha_aceptado": null
         },
