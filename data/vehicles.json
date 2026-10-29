@@ -3389,8 +3389,8 @@
         "tecnico": "Sergio",
         "tiempo_entrega_aprox": "2 dias",
         "fecha_inicio": "2026-10-28",
-        "estado": "listo",
-        "actualizado": "2026-10-28",
+        "estado": "recogido",
+        "actualizado": "2026-10-29",
         "pago": {
           "estado": "no_pagado",
           "metodo": null
@@ -3446,7 +3446,8 @@
         },
         "fechas_etapa": {
           "recibido": "2026-10-28T23:43:02.355Z",
-          "listo": "2026-10-28T23:45:59.012Z"
+          "listo": "2026-10-28T23:45:59.012Z",
+          "recogido": "2026-10-29T02:43:28.562Z"
         },
         "adjuntos": {
           "recibido": {
