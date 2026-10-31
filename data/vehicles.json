@@ -4288,9 +4288,9 @@
           "fecha_aceptado": null
         },
         "informe_trabajo": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null
+          "enviado": true,
+          "fecha_envio": "2026-10-31",
+          "pdf_path": "uploads/A10/20261031-134543-informe-trabajo.pdf"
         },
         "fechas_etapa": {
           "recibido": "2026-10-31T18:48:03.640Z",
@@ -4341,7 +4341,11 @@
             "documentos": []
           },
           "listo": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A10/20261031-134616-listo-0-1000929312.jpg",
+              "uploads/A10/20261031-134619-listo-1-1000929313.jpg",
+              "uploads/A10/20261031-134622-listo-2-1000929314.jpg"
+            ],
             "documentos": []
           },
           "recogido": {
