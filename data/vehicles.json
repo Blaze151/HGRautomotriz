@@ -3768,7 +3768,9 @@
       "fecha_creacion": "2026-10-31T14:08:44.502Z",
       "foto_perfil": null,
       "documentos_vehiculo": {
-        "fotos": [],
+        "fotos": [
+          "uploads/A08/20261031-080922-vdoc-0-1000928684.jpg"
+        ],
         "documentos": []
       },
       "placas": "GFF 840 D",
