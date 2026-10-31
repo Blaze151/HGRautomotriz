@@ -3959,7 +3959,7 @@
         "actualizado": "2026-10-31",
         "pago": {
           "estado": "no_pagado",
-          "metodo": null
+          "metodo": "transferencia"
         },
         "orden_recepcion": {
           "enviado": false,
@@ -4006,9 +4006,9 @@
           "fecha_aceptado": null
         },
         "informe_trabajo": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null
+          "enviado": true,
+          "fecha_envio": "2026-10-31",
+          "pdf_path": "uploads/A09/20261031-133857-informe-trabajo.pdf"
         },
         "fechas_etapa": {
           "recibido": "2026-10-31T17:13:51.164Z"
@@ -4033,11 +4033,15 @@
             "documentos": []
           },
           "listo": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A09/20261031-134009-listo-0-1000929336.jpg"
+            ],
             "documentos": []
           },
           "recogido": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A09/20261031-134012-recogido-0-1000929336.jpg"
+            ],
             "documentos": []
           },
           "pago": {
@@ -4059,8 +4063,8 @@
           "tiempo_entrega_aprox": "2 dias",
           "fecha_inicio": "2026-10-31",
           "pago": {
-            "estado": "no_pagado",
-            "metodo": null
+            "estado": "pagado",
+            "metodo": "transferencia"
           },
           "orden_recepcion": {
             "enviado": false,
