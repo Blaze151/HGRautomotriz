@@ -1602,6 +1602,7 @@
     },
     "A02": {
       "id": "A02",
+      "fecha_creacion": "2026-10-31T14:17:26.170Z",
       "foto_perfil": "uploads/X12/20260915-132022-perfil.jpg",
       "documentos_vehiculo": {
         "fotos": [],
@@ -1623,6 +1624,7 @@
       "cliente_correo": "",
       "cliente_rfc": "",
       "cliente_direccion": "",
+      "cliente_actualizado": null,
       "ficha_tecnica": {
         "aceite_tipo": "",
         "aceite_capacidad": "",
