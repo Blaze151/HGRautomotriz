@@ -3990,14 +3990,14 @@
           }
         },
         "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
+          "enviado": true,
+          "fecha_envio": "2026-10-31",
+          "pdf_path": "uploads/A09/20261031-105847-cotizacion.pdf",
           "items": [
             {
-              "concepto": "",
+              "concepto": "Diagnóstico y reparación de vehículo no enciende debido a partes mojadas. Limpieza de todos los sensores y conexiones. Mantenimiento y limpieza de alternador debido a corto detectado. Diagnóstico y reseteo de computadora.",
               "cantidad": 1,
-              "costo_unitario": null
+              "costo_unitario": 2800
             }
           ],
           "incluir_iva": true,
