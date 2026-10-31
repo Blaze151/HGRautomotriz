@@ -3944,7 +3944,108 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": null,
+      "servicio_actual": {
+        "id": "svc_1793466831163",
+        "folio": "A033",
+        "tipo": "Afinación motor a gasolina 4 cilindros aceite sintético 5W/30",
+        "descripcion": "Afinación a motor de gasolina 4 cilindros \nAceite Sintético 5w/30\nFiltro aceite \nFiltro aire\nBujías",
+        "nota_interna": "",
+        "km": 64515,
+        "costo": 2500,
+        "tecnico": "Sergio",
+        "tiempo_entrega_aprox": "2 dias",
+        "fecha_inicio": "2026-10-31",
+        "estado": "recibido",
+        "actualizado": "2026-10-31",
+        "pago": {
+          "estado": "no_pagado",
+          "metodo": null
+        },
+        "orden_recepcion": {
+          "enviado": false,
+          "aceptado": false,
+          "fecha_envio": null,
+          "fecha_aceptado": null,
+          "inventario": {
+            "exteriores": {
+              "antena": "no",
+              "espejo_lateral": "no",
+              "cristales": "no",
+              "emblema": "no",
+              "tapon_ruedas": "no",
+              "molduras_completas": "no",
+              "tapon_gasolina": "no"
+            },
+            "accesorios": {
+              "gato": "no",
+              "maneral_gato": "no",
+              "llave_ruedas": "no",
+              "estuche_herramientas": "no",
+              "triangulo_seguridad": "no",
+              "llanta_refaccion": "no",
+              "extinguidor": "no"
+            },
+            "gasolina": 0,
+            "danos_notas": ""
+          }
+        },
+        "cotizacion": {
+          "enviado": true,
+          "fecha_envio": "2026-10-31",
+          "pdf_path": "uploads/A09/20261031-112007-cotizacion.pdf",
+          "items": [
+            {
+              "concepto": "Afinación a motor de gasolina 4 cilindros  Aceite Sintético 5w/30 Filtro aceite  Filtro aire Bujías",
+              "cantidad": 1,
+              "costo_unitario": 2155.17
+            }
+          ],
+          "incluir_iva": true,
+          "observaciones": "",
+          "aceptado": false,
+          "fecha_aceptado": null
+        },
+        "informe_trabajo": {
+          "enviado": false,
+          "fecha_envio": null,
+          "pdf_path": null
+        },
+        "fechas_etapa": {
+          "recibido": "2026-10-31T17:13:51.164Z"
+        },
+        "adjuntos": {
+          "recibido": {
+            "fotos": [],
+            "documentos": []
+          },
+          "diagnostico": {
+            "fotos": [
+              "uploads/A09/20261031-112046-diagnostico-0-1000928966.jpg",
+              "uploads/A09/20261031-112048-diagnostico-1-1000928961.jpg",
+              "uploads/A09/20261031-112051-diagnostico-2-1000928978.jpg",
+              "uploads/A09/20261031-112053-diagnostico-3-1000929125.jpg",
+              "uploads/A09/20261031-112056-diagnostico-4-1000929139.jpg"
+            ],
+            "documentos": []
+          },
+          "en_proceso": {
+            "fotos": [],
+            "documentos": []
+          },
+          "listo": {
+            "fotos": [],
+            "documentos": []
+          },
+          "recogido": {
+            "fotos": [],
+            "documentos": []
+          },
+          "pago": {
+            "fotos": [],
+            "documentos": []
+          }
+        }
+      },
       "servicios": [
         {
           "fecha": "2026-10-31",
@@ -4069,5 +4170,5 @@
       ]
     }
   },
-  "folio_counter": 32
+  "folio_counter": 33
 }
