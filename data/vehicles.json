@@ -3955,7 +3955,7 @@
         "tecnico": "Sergio",
         "tiempo_entrega_aprox": "2 dias",
         "fecha_inicio": "2026-10-31",
-        "estado": "recibido",
+        "estado": "diagnostico",
         "actualizado": "2026-10-31",
         "pago": {
           "estado": "no_pagado",
@@ -4011,7 +4011,8 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-10-31T16:39:06.782Z"
+          "recibido": "2026-10-31T16:39:06.782Z",
+          "diagnostico": "2026-10-31T16:52:08.518Z"
         },
         "adjuntos": {
           "recibido": {
