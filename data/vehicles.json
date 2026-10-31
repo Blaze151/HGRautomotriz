@@ -3817,9 +3817,9 @@
         },
         "orden_recepcion": {
           "enviado": true,
-          "aceptado": false,
+          "aceptado": true,
           "fecha_envio": "2026-10-31",
-          "fecha_aceptado": null,
+          "fecha_aceptado": "2026-10-31",
           "inventario": {
             "exteriores": {
               "antena": "si",
@@ -3845,14 +3845,14 @@
           "pdf_path": "uploads/A08/20261031-081239-informe-recepcion.pdf"
         },
         "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
+          "enviado": true,
+          "fecha_envio": "2026-10-31",
+          "pdf_path": "uploads/A08/20261031-081340-cotizacion.pdf",
           "items": [
             {
-              "concepto": "",
+              "concepto": "Enderezado y pintura en toda la pieza del costado izquierdo trasero. Incluye pintura en toda la pieza completa en color tricapa lanco aperlado.",
               "cantidad": 1,
-              "costo_unitario": null
+              "costo_unitario": 3800
             }
           ],
           "incluir_iva": true,
