@@ -4205,13 +4205,13 @@
       "servicio_actual": {
         "id": "svc_1793472483640",
         "folio": "A034",
-        "tipo": "",
-        "descripcion": "",
+        "tipo": "Reparación de Transmisión Automática. Reparación de control maestro de ventana delantera izquierda. Afinación motor a gasolina 4 cilindros motor 2.4 Lts. Limpieza interior exterior.",
+        "descripcion": "Reparación de Transmisión Automática. Reparación de control maestro de ventana delantera izquierda. Afinación motor a gasolina 4 cilindros motor 2.4 Lts. Limpieza interior exterior.",
         "nota_interna": "",
-        "km": null,
+        "km": 184059,
         "costo": null,
-        "tecnico": "",
-        "tiempo_entrega_aprox": "",
+        "tecnico": "SERGIO Guardado Martínez",
+        "tiempo_entrega_aprox": "Indeterminado",
         "fecha_inicio": "2026-10-31",
         "estado": "diagnostico",
         "actualizado": "2026-10-31",
@@ -4253,13 +4253,33 @@
           "pdf_path": null,
           "items": [
             {
-              "concepto": "",
+              "concepto": "Reparación de Transmisión Automática.",
               "cantidad": 1,
-              "costo_unitario": null
+              "costo_unitario": 8200
+            },
+            {
+              "concepto": "Reparación de control maestro de ventana delantera izquierda.",
+              "cantidad": 1,
+              "costo_unitario": 800
+            },
+            {
+              "concepto": "Afinación motor a gasolina 4 cilindros motor 2.4 Lts. Limpieza interior exterior.",
+              "cantidad": 1,
+              "costo_unitario": 3100
+            },
+            {
+              "concepto": "Limpieza exterior e interior",
+              "cantidad": 1,
+              "costo_unitario": 1
+            },
+            {
+              "concepto": "Revisión estéreo de agencia.",
+              "cantidad": 1,
+              "costo_unitario": 1
             }
           ],
           "incluir_iva": true,
-          "observaciones": "",
+          "observaciones": "La transmisión se reparó de la tarjeta electrónica. Garantía 6 meses. Mantenimiento a transmisión automática. \nAfinación con aceite sintético 5W 30. Se recomienda cambiar en los próximos 10,000 kms.\nMódulo de estereo dañado, se necesita uno nuevo con código de desbloqueo.",
           "aceptado": false,
           "fecha_aceptado": null
         },
