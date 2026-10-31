@@ -3809,7 +3809,7 @@
         "tecnico": "Manuel Carrera",
         "tiempo_entrega_aprox": "3 dias",
         "fecha_inicio": "2026-10-31",
-        "estado": "diagnostico",
+        "estado": "en_proceso",
         "actualizado": "2026-10-31",
         "pago": {
           "estado": "no_pagado",
@@ -3857,8 +3857,8 @@
           ],
           "incluir_iva": true,
           "observaciones": "",
-          "aceptado": false,
-          "fecha_aceptado": null
+          "aceptado": true,
+          "fecha_aceptado": "2026-10-31"
         },
         "informe_trabajo": {
           "enviado": false,
@@ -3867,7 +3867,8 @@
         },
         "fechas_etapa": {
           "recibido": "2026-10-31T14:09:29.737Z",
-          "diagnostico": "2026-10-31T14:12:42.843Z"
+          "diagnostico": "2026-10-31T14:12:42.843Z",
+          "en_proceso": "2026-10-31T14:14:05.944Z"
         },
         "adjuntos": {
           "recibido": {
