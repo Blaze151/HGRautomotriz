@@ -3762,6 +3762,42 @@
         }
       },
       "servicios": []
+    },
+    "A08": {
+      "id": "A08",
+      "fecha_creacion": "2026-10-31T14:08:44.502Z",
+      "foto_perfil": null,
+      "documentos_vehiculo": {
+        "fotos": [],
+        "documentos": []
+      },
+      "placas": "GFF 840 D",
+      "numero_unidad": "",
+      "marca": "ACURA",
+      "modelo": "TL 4 puertas",
+      "anio": 2009,
+      "version": "TL 3.5 Lts",
+      "color": "Blanco Aperlado",
+      "combustible": "Gasolina",
+      "vin": "19UUA86269A900495",
+      "km_actual": null,
+      "cliente_nombre": "Salvador Aguilar Rangel",
+      "cliente_telefono": "871 575 9597",
+      "cliente_telefono_2": "",
+      "cliente_correo": "",
+      "cliente_rfc": "",
+      "cliente_direccion": "",
+      "cliente_actualizado": "2026-10-31T14:08:44.502Z",
+      "ficha_tecnica": {
+        "aceite_tipo": "",
+        "aceite_capacidad": "",
+        "presion_llantas": "",
+        "bateria": "",
+        "filtro_aire": "",
+        "filtro_aceite": ""
+      },
+      "servicio_actual": null,
+      "servicios": []
     }
   },
   "folio_counter": 30
