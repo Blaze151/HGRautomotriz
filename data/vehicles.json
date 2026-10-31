@@ -4294,11 +4294,34 @@
         },
         "adjuntos": {
           "recibido": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A10/20261031-131505-recibido-0-1000908422.jpg",
+              "uploads/A10/20261031-131508-recibido-1-1000908423.jpg",
+              "uploads/A10/20261031-131511-recibido-2-1000908424.jpg",
+              "uploads/A10/20261031-131514-recibido-3-1000908425.jpg",
+              "uploads/A10/20261031-131520-recibido-4-1000908426.jpg",
+              "uploads/A10/20261031-131526-recibido-5-1000908421.jpg",
+              "uploads/A10/20261031-131532-recibido-6-1000908427.jpg",
+              "uploads/A10/20261031-131540-recibido-7-1000908428.jpg",
+              "uploads/A10/20261031-131547-recibido-8-1000908429.jpg",
+              "uploads/A10/20261031-131554-recibido-9-1000908430.jpg",
+              "uploads/A10/20261031-131601-recibido-10-1000908431.jpg",
+              "uploads/A10/20261031-131608-recibido-11-1000908432.jpg",
+              "uploads/A10/20261031-131615-recibido-12-1000908433.jpg"
+            ],
             "documentos": []
           },
           "diagnostico": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A10/20261031-131622-diagnostico-0-1000921501.jpg",
+              "uploads/A10/20261031-131625-diagnostico-1-1000921500.jpg",
+              "uploads/A10/20261031-131640-diagnostico-2-1000921498.jpg",
+              "uploads/A10/20261031-131643-diagnostico-3-1000908433.jpg",
+              "uploads/A10/20261031-131646-diagnostico-4-1000908432.jpg",
+              "uploads/A10/20261031-131731-diagnostico-5-1000908431.jpg",
+              "uploads/A10/20261031-131735-diagnostico-6-1000908421.jpg",
+              "uploads/A10/20261031-131741-diagnostico-7-1000929140.jpg"
+            ],
             "documentos": []
           },
           "en_proceso": {
