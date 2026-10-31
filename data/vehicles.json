@@ -3906,6 +3906,42 @@
         }
       },
       "servicios": []
+    },
+    "A09": {
+      "id": "A09",
+      "fecha_creacion": "2026-10-31T16:39:00.708Z",
+      "foto_perfil": "uploads/A09/20261031-103901-perfil.jpg",
+      "documentos_vehiculo": {
+        "fotos": [],
+        "documentos": []
+      },
+      "placas": "FLN-573-D",
+      "numero_unidad": "",
+      "marca": "Hyundai",
+      "modelo": "HB20",
+      "anio": 2022,
+      "version": "",
+      "color": "Gris Oscuro",
+      "combustible": "Gasolina",
+      "vin": "9BHCP4AC6PP472887",
+      "km_actual": 64515,
+      "cliente_nombre": "Aidee",
+      "cliente_telefono": "871 475 9199",
+      "cliente_telefono_2": "",
+      "cliente_correo": "",
+      "cliente_rfc": "",
+      "cliente_direccion": "",
+      "cliente_actualizado": "2026-10-31T16:39:00.708Z",
+      "ficha_tecnica": {
+        "aceite_tipo": "",
+        "aceite_capacidad": "",
+        "presion_llantas": "",
+        "bateria": "",
+        "filtro_aire": "",
+        "filtro_aceite": ""
+      },
+      "servicio_actual": null,
+      "servicios": []
     }
   },
   "folio_counter": 31
