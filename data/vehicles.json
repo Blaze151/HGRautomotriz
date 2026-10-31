@@ -3944,129 +3944,129 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": {
-        "id": "svc_1793464746781",
-        "folio": "A032",
-        "tipo": "Diagnóstico NO enciende el vehículo",
-        "descripcion": "Diagnóstico con computadora del vehículo no enciende se nota marcas de agua en todo el motor",
-        "nota_interna": "",
-        "km": 64515,
-        "costo": 2800,
-        "tecnico": "Sergio",
-        "tiempo_entrega_aprox": "2 dias",
-        "fecha_inicio": "2026-10-31",
-        "estado": "diagnostico",
-        "actualizado": "2026-10-31",
-        "pago": {
-          "estado": "no_pagado",
-          "metodo": null
-        },
-        "orden_recepcion": {
-          "enviado": false,
-          "aceptado": false,
-          "fecha_envio": null,
-          "fecha_aceptado": null,
-          "inventario": {
-            "exteriores": {
-              "antena": "no",
-              "espejo_lateral": "no",
-              "cristales": "no",
-              "emblema": "no",
-              "tapon_ruedas": "no",
-              "molduras_completas": "no",
-              "tapon_gasolina": "no"
-            },
-            "accesorios": {
-              "gato": "no",
-              "maneral_gato": "no",
-              "llave_ruedas": "no",
-              "estuche_herramientas": "no",
-              "triangulo_seguridad": "no",
-              "llanta_refaccion": "no",
-              "extinguidor": "no"
-            },
-            "gasolina": 0,
-            "danos_notas": ""
-          }
-        },
-        "cotizacion": {
-          "enviado": true,
-          "fecha_envio": "2026-10-31",
-          "pdf_path": "uploads/A09/20261031-105847-cotizacion.pdf",
-          "items": [
-            {
-              "concepto": "Diagnóstico y reparación de vehículo no enciende debido a partes mojadas. Limpieza de todos los sensores y conexiones. Mantenimiento y limpieza de alternador debido a corto detectado. Diagnóstico y reseteo de computadora.",
-              "cantidad": 1,
-              "costo_unitario": 2800
-            }
-          ],
-          "incluir_iva": true,
-          "observaciones": "",
-          "aceptado": false,
-          "fecha_aceptado": null
-        },
-        "informe_trabajo": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null
-        },
-        "fechas_etapa": {
-          "recibido": "2026-10-31T16:39:06.782Z",
-          "diagnostico": "2026-10-31T16:52:08.518Z"
-        },
-        "adjuntos": {
-          "recibido": {
-            "fotos": [
-              "uploads/A09/20261031-104928-recibido-0-1000928950.jpg",
-              "uploads/A09/20261031-104931-recibido-1-1000928951.jpg",
-              "uploads/A09/20261031-105048-recibido-2-1000928952.jpg",
-              "uploads/A09/20261031-105053-recibido-3-1000928953.jpg",
-              "uploads/A09/20261031-105055-recibido-4-1000928954.jpg",
-              "uploads/A09/20261031-105057-recibido-5-1000928955.jpg",
-              "uploads/A09/20261031-105100-recibido-6-1000928956.jpg",
-              "uploads/A09/20261031-105102-recibido-7-1000928957.jpg",
-              "uploads/A09/20261031-105104-recibido-8-1000928958.jpg",
-              "uploads/A09/20261031-105106-recibido-9-1000928961.jpg",
-              "uploads/A09/20261031-105109-recibido-10-1000928962.jpg",
-              "uploads/A09/20261031-105111-recibido-11-1000928966.jpg",
-              "uploads/A09/20261031-105113-recibido-12-1000928967.jpg",
-              "uploads/A09/20261031-105115-recibido-13-1000928968.jpg",
-              "uploads/A09/20261031-105118-recibido-14-1000928969.jpg",
-              "uploads/A09/20261031-105120-recibido-15-1000928970.jpg",
-              "uploads/A09/20261031-105122-recibido-16-1000928971.jpg",
-              "uploads/A09/20261031-105146-recibido-17-1000928972.jpg",
-              "uploads/A09/20261031-105148-recibido-18-1000928975.jpg",
-              "uploads/A09/20261031-105151-recibido-19-1000928974.jpg",
-              "uploads/A09/20261031-105153-recibido-20-1000928973.jpg",
-              "uploads/A09/20261031-105156-recibido-21-1000928976.jpg",
-              "uploads/A09/20261031-105158-recibido-22-1000928977.jpg",
-              "uploads/A09/20261031-105201-recibido-23-1000928978.jpg"
-            ],
-            "documentos": []
-          },
-          "diagnostico": {
-            "fotos": [],
-            "documentos": []
-          },
-          "en_proceso": {
-            "fotos": [],
-            "documentos": []
-          },
-          "listo": {
-            "fotos": [],
-            "documentos": []
-          },
-          "recogido": {
-            "fotos": [],
-            "documentos": []
-          },
+      "servicio_actual": null,
+      "servicios": [
+        {
+          "fecha": "2026-10-31",
+          "folio": "A032",
+          "tipo": "Diagnóstico NO enciende el vehículo",
+          "descripcion": "Diagnóstico con computadora del vehículo no enciende se nota marcas de agua en todo el motor",
+          "nota_interna": "",
+          "km": 64515,
+          "costo": 2800,
+          "tecnico": "Sergio",
+          "tiempo_entrega_aprox": "2 dias",
+          "fecha_inicio": "2026-10-31",
           "pago": {
-            "fotos": [],
-            "documentos": []
+            "estado": "no_pagado",
+            "metodo": null
+          },
+          "orden_recepcion": {
+            "enviado": false,
+            "aceptado": false,
+            "fecha_envio": null,
+            "fecha_aceptado": null,
+            "inventario": {
+              "exteriores": {
+                "antena": "no",
+                "espejo_lateral": "no",
+                "cristales": "no",
+                "emblema": "no",
+                "tapon_ruedas": "no",
+                "molduras_completas": "no",
+                "tapon_gasolina": "no"
+              },
+              "accesorios": {
+                "gato": "no",
+                "maneral_gato": "no",
+                "llave_ruedas": "no",
+                "estuche_herramientas": "no",
+                "triangulo_seguridad": "no",
+                "llanta_refaccion": "no",
+                "extinguidor": "no"
+              },
+              "gasolina": 0,
+              "danos_notas": ""
+            }
+          },
+          "cotizacion": {
+            "enviado": true,
+            "fecha_envio": "2026-10-31",
+            "pdf_path": "uploads/A09/20261031-105847-cotizacion.pdf",
+            "items": [
+              {
+                "concepto": "Diagnóstico y reparación de vehículo no enciende debido a partes mojadas. Limpieza de todos los sensores y conexiones. Mantenimiento y limpieza de alternador debido a corto detectado. Diagnóstico y reseteo de computadora.",
+                "cantidad": 1,
+                "costo_unitario": 2800
+              }
+            ],
+            "incluir_iva": true,
+            "observaciones": "",
+            "aceptado": false,
+            "fecha_aceptado": null
+          },
+          "informe_trabajo": {
+            "enviado": false,
+            "fecha_envio": null,
+            "pdf_path": null
+          },
+          "fechas_etapa": {
+            "recibido": "2026-10-31T16:39:06.782Z",
+            "diagnostico": "2026-10-31T16:52:08.518Z"
+          },
+          "adjuntos": {
+            "recibido": {
+              "fotos": [
+                "uploads/A09/20261031-104928-recibido-0-1000928950.jpg",
+                "uploads/A09/20261031-104931-recibido-1-1000928951.jpg",
+                "uploads/A09/20261031-105048-recibido-2-1000928952.jpg",
+                "uploads/A09/20261031-105053-recibido-3-1000928953.jpg",
+                "uploads/A09/20261031-105055-recibido-4-1000928954.jpg",
+                "uploads/A09/20261031-105057-recibido-5-1000928955.jpg",
+                "uploads/A09/20261031-105100-recibido-6-1000928956.jpg",
+                "uploads/A09/20261031-105102-recibido-7-1000928957.jpg",
+                "uploads/A09/20261031-105104-recibido-8-1000928958.jpg",
+                "uploads/A09/20261031-105106-recibido-9-1000928961.jpg",
+                "uploads/A09/20261031-105109-recibido-10-1000928962.jpg",
+                "uploads/A09/20261031-105111-recibido-11-1000928966.jpg",
+                "uploads/A09/20261031-105113-recibido-12-1000928967.jpg",
+                "uploads/A09/20261031-105115-recibido-13-1000928968.jpg",
+                "uploads/A09/20261031-105118-recibido-14-1000928969.jpg",
+                "uploads/A09/20261031-105120-recibido-15-1000928970.jpg",
+                "uploads/A09/20261031-105122-recibido-16-1000928971.jpg",
+                "uploads/A09/20261031-105146-recibido-17-1000928972.jpg",
+                "uploads/A09/20261031-105148-recibido-18-1000928975.jpg",
+                "uploads/A09/20261031-105151-recibido-19-1000928974.jpg",
+                "uploads/A09/20261031-105153-recibido-20-1000928973.jpg",
+                "uploads/A09/20261031-105156-recibido-21-1000928976.jpg",
+                "uploads/A09/20261031-105158-recibido-22-1000928977.jpg",
+                "uploads/A09/20261031-105201-recibido-23-1000928978.jpg"
+              ],
+              "documentos": []
+            },
+            "diagnostico": {
+              "fotos": [],
+              "documentos": []
+            },
+            "en_proceso": {
+              "fotos": [],
+              "documentos": []
+            },
+            "listo": {
+              "fotos": [],
+              "documentos": []
+            },
+            "recogido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "pago": {
+              "fotos": [],
+              "documentos": []
+            }
           }
         }
-      },
-      "servicios": []
+      ]
     }
   },
   "folio_counter": 32
