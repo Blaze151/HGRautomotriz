@@ -3809,16 +3809,16 @@
         "tecnico": "Manuel Carrera",
         "tiempo_entrega_aprox": "3 dias",
         "fecha_inicio": "2026-10-31",
-        "estado": "recibido",
+        "estado": "diagnostico",
         "actualizado": "2026-10-31",
         "pago": {
           "estado": "no_pagado",
           "metodo": null
         },
         "orden_recepcion": {
-          "enviado": false,
+          "enviado": true,
           "aceptado": false,
-          "fecha_envio": null,
+          "fecha_envio": "2026-10-31",
           "fecha_aceptado": null,
           "inventario": {
             "exteriores": {
@@ -3841,7 +3841,8 @@
             },
             "gasolina": 50,
             "danos_notas": ""
-          }
+          },
+          "pdf_path": "uploads/A08/20261031-081239-informe-recepcion.pdf"
         },
         "cotizacion": {
           "enviado": false,
@@ -3865,7 +3866,8 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-10-31T14:09:29.737Z"
+          "recibido": "2026-10-31T14:09:29.737Z",
+          "diagnostico": "2026-10-31T14:12:42.843Z"
         },
         "adjuntos": {
           "recibido": {
