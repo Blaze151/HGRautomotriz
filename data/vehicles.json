@@ -3652,8 +3652,10 @@
         "estado": "diagnostico",
         "actualizado": "2026-10-29",
         "pago": {
-          "estado": "no_pagado",
-          "metodo": null
+          "estado": "a_deber",
+          "metodo": "transferencia",
+          "monto_pagado": 2000,
+          "saldo_pendiente": 4288
         },
         "orden_recepcion": {
           "enviado": true,
@@ -3747,7 +3749,11 @@
           },
           "en_proceso": {
             "fotos": [
-              "uploads/A07/20261031-155946-en_proceso-0-1000926379.jpg"
+              "uploads/A07/20261031-155946-en_proceso-0-1000926379.jpg",
+              "uploads/A07/20261031-160040-en_proceso-0-1000929907.jpg",
+              "uploads/A07/20261031-160042-en_proceso-1-1000929273.jpg",
+              "uploads/A07/20261031-160045-en_proceso-2-1000929272.jpg",
+              "uploads/A07/20261031-160048-en_proceso-3-1000929271.jpg"
             ],
             "documentos": []
           },
