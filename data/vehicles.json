@@ -3963,8 +3963,8 @@
         "tecnico": "Sergio",
         "tiempo_entrega_aprox": "2 dias",
         "fecha_inicio": "2026-10-31",
-        "estado": "recibido",
-        "actualizado": "2026-10-31",
+        "estado": "listo",
+        "actualizado": "2026-11-02",
         "pago": {
           "estado": "no_pagado",
           "metodo": "transferencia"
@@ -4019,7 +4019,8 @@
           "pdf_path": "uploads/A09/20261031-133857-informe-trabajo.pdf"
         },
         "fechas_etapa": {
-          "recibido": "2026-10-31T17:13:51.164Z"
+          "recibido": "2026-10-31T17:13:51.164Z",
+          "listo": "2026-11-02T14:50:04.807Z"
         },
         "adjuntos": {
           "recibido": {
