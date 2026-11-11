@@ -4450,17 +4450,17 @@
           }
         },
         "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
+          "enviado": true,
+          "fecha_envio": "2026-11-11",
+          "pdf_path": "uploads/A20/20261111-114843-cotizacion.pdf",
           "items": [
             {
-              "concepto": "",
-              "cantidad": 1,
-              "costo_unitario": null
+              "concepto": "Cambio de carcasa de llaves de Chevrolet original de dos botones",
+              "cantidad": 2,
+              "costo_unitario": 500
             }
           ],
-          "incluir_iva": true,
+          "incluir_iva": false,
           "observaciones": "",
           "aceptado": false,
           "fecha_aceptado": null
