@@ -4423,9 +4423,9 @@
         },
         "orden_recepcion": {
           "enviado": true,
-          "aceptado": false,
+          "aceptado": true,
           "fecha_envio": "2026-11-11",
-          "fecha_aceptado": null,
+          "fecha_aceptado": "2026-11-11",
           "inventario": {
             "exteriores": {
               "antena": "si",
@@ -4453,7 +4453,7 @@
         "cotizacion": {
           "enviado": true,
           "fecha_envio": "2026-11-11",
-          "pdf_path": "uploads/A20/20261111-114843-cotizacion.pdf",
+          "pdf_path": "uploads/A20/20261111-115023-cotizacion.pdf",
           "items": [
             {
               "concepto": "Cambio de carcasa de llaves de Chevrolet original de dos botones",
@@ -4462,7 +4462,7 @@
             }
           ],
           "incluir_iva": false,
-          "observaciones": "",
+          "observaciones": "Incluye batería CR2032 NUEVAS",
           "aceptado": false,
           "fecha_aceptado": null
         },
