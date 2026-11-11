@@ -4404,9 +4404,117 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": null,
+      "servicio_actual": {
+        "id": "svc_1794419181847",
+        "folio": "A035",
+        "tipo": "Controles de llaves nuevos",
+        "descripcion": "Cambio de carcasa de llaves originales Chevrolet de dos botones",
+        "nota_interna": "",
+        "km": 86491,
+        "costo": 1000,
+        "tecnico": "Sergio G",
+        "tiempo_entrega_aprox": "3 dias",
+        "fecha_inicio": "2026-11-11",
+        "estado": "recibido",
+        "actualizado": "2026-11-11",
+        "pago": {
+          "estado": "no_pagado",
+          "metodo": null
+        },
+        "orden_recepcion": {
+          "enviado": false,
+          "aceptado": false,
+          "fecha_envio": null,
+          "fecha_aceptado": null,
+          "inventario": {
+            "exteriores": {
+              "antena": "no",
+              "espejo_lateral": "no",
+              "cristales": "no",
+              "emblema": "no",
+              "tapon_ruedas": "no",
+              "molduras_completas": "no",
+              "tapon_gasolina": "no"
+            },
+            "accesorios": {
+              "gato": "no",
+              "maneral_gato": "no",
+              "llave_ruedas": "no",
+              "estuche_herramientas": "no",
+              "triangulo_seguridad": "no",
+              "llanta_refaccion": "no",
+              "extinguidor": "no"
+            },
+            "gasolina": 0,
+            "danos_notas": ""
+          }
+        },
+        "cotizacion": {
+          "enviado": false,
+          "fecha_envio": null,
+          "pdf_path": null,
+          "items": [
+            {
+              "concepto": "",
+              "cantidad": 1,
+              "costo_unitario": null
+            }
+          ],
+          "incluir_iva": true,
+          "observaciones": "",
+          "aceptado": false,
+          "fecha_aceptado": null
+        },
+        "informe_trabajo": {
+          "enviado": false,
+          "fecha_envio": null,
+          "pdf_path": null
+        },
+        "fechas_etapa": {
+          "recibido": "2026-11-11T17:46:21.847Z"
+        },
+        "adjuntos": {
+          "recibido": {
+            "fotos": [
+              "uploads/A20/20261111-114733-recibido-0-1000959534.jpg",
+              "uploads/A20/20261111-114735-recibido-1-1000959535.jpg",
+              "uploads/A20/20261111-114738-recibido-2-1000959536.jpg",
+              "uploads/A20/20261111-114740-recibido-3-1000959538.jpg",
+              "uploads/A20/20261111-114742-recibido-4-1000959546.jpg",
+              "uploads/A20/20261111-114745-recibido-5-1000959547.jpg",
+              "uploads/A20/20261111-114747-recibido-6-1000959548.jpg",
+              "uploads/A20/20261111-114749-recibido-7-1000959549.jpg",
+              "uploads/A20/20261111-114751-recibido-8-1000959550.jpg",
+              "uploads/A20/20261111-114754-recibido-9-1000959551.jpg",
+              "uploads/A20/20261111-114756-recibido-10-1000959552.jpg",
+              "uploads/A20/20261111-114758-recibido-11-1000959553.jpg"
+            ],
+            "documentos": []
+          },
+          "diagnostico": {
+            "fotos": [],
+            "documentos": []
+          },
+          "en_proceso": {
+            "fotos": [],
+            "documentos": []
+          },
+          "listo": {
+            "fotos": [],
+            "documentos": []
+          },
+          "recogido": {
+            "fotos": [],
+            "documentos": []
+          },
+          "pago": {
+            "fotos": [],
+            "documentos": []
+          }
+        }
+      },
       "servicios": []
     }
   },
-  "folio_counter": 34
+  "folio_counter": 35
 }
