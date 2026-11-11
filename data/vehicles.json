@@ -4415,7 +4415,7 @@
         "tecnico": "Sergio G",
         "tiempo_entrega_aprox": "3 dias",
         "fecha_inicio": "2026-11-11",
-        "estado": "recibido",
+        "estado": "diagnostico",
         "actualizado": "2026-11-11",
         "pago": {
           "estado": "no_pagado",
@@ -4471,7 +4471,8 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-11-11T17:46:21.847Z"
+          "recibido": "2026-11-11T17:46:21.847Z",
+          "diagnostico": "2026-11-11T17:48:09.284Z"
         },
         "adjuntos": {
           "recibido": {
