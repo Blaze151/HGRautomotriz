@@ -4264,8 +4264,8 @@
         },
         "cotizacion": {
           "enviado": true,
-          "fecha_envio": "2026-10-31",
-          "pdf_path": "uploads/A10/20261031-134125-cotizacion.pdf",
+          "fecha_envio": "2026-11-11",
+          "pdf_path": "uploads/A10/20261111-103153-cotizacion.pdf",
           "items": [
             {
               "concepto": "Reparación de Transmisión Automática.",
