@@ -4630,15 +4630,41 @@
             "documentos": []
           },
           "diagnostico": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A19/20261112-185948-diagnostico-0-1000949311.jpg",
+              "uploads/A19/20261112-185952-diagnostico-1-1000949312.jpg",
+              "uploads/A19/20261112-185958-diagnostico-2-1000949369.jpg",
+              "uploads/A19/20261112-190000-diagnostico-3-1000949370.jpg",
+              "uploads/A19/20261112-190003-diagnostico-4-1000949371.jpg",
+              "uploads/A19/20261112-190006-diagnostico-5-1000949372.jpg",
+              "uploads/A19/20261112-190009-diagnostico-6-1000949373.jpg",
+              "uploads/A19/20261112-190052-diagnostico-7-1000949374.jpg",
+              "uploads/A19/20261112-190100-diagnostico-8-1000949383.jpg"
+            ],
             "documentos": []
           },
           "en_proceso": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A19/20261112-204001-en_proceso-0-1000949387.jpg",
+              "uploads/A19/20261112-204004-en_proceso-1-1000957879.jpg",
+              "uploads/A19/20261112-204007-en_proceso-2-1000957880.jpg",
+              "uploads/A19/20261112-204010-en_proceso-3-1000957904.jpg",
+              "uploads/A19/20261112-204012-en_proceso-4-1000957905.jpg",
+              "uploads/A19/20261112-204015-en_proceso-5-1000957908.jpg",
+              "uploads/A19/20261112-204018-en_proceso-6-1000960058.jpg",
+              "uploads/A19/20261112-204020-en_proceso-7-1000960059.jpg",
+              "uploads/A19/20261112-204023-en_proceso-8-1000960060.jpg"
+            ],
             "documentos": []
           },
           "listo": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A19/20261112-204026-listo-0-1000962519.jpg",
+              "uploads/A19/20261112-204028-listo-1-1000962520.jpg",
+              "uploads/A19/20261112-204030-listo-2-1000962521.jpg",
+              "uploads/A19/20261112-204033-listo-3-1000962523.jpg",
+              "uploads/A19/20261112-204035-listo-4-1000962522.jpg"
+            ],
             "documentos": []
           },
           "recogido": {
