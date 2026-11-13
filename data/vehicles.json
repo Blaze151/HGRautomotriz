@@ -3822,7 +3822,7 @@
         "tecnico": "Manuel Carrera",
         "tiempo_entrega_aprox": "3 dias",
         "fecha_inicio": "2026-10-31",
-        "estado": "listo",
+        "estado": "recogido",
         "actualizado": "2026-11-13",
         "pago": {
           "estado": "no_pagado",
@@ -3882,7 +3882,8 @@
           "recibido": "2026-10-31T14:09:29.737Z",
           "diagnostico": "2026-10-31T14:12:42.843Z",
           "en_proceso": "2026-10-31T14:14:05.944Z",
-          "listo": "2026-11-13T02:44:47.536Z"
+          "listo": "2026-11-13T02:44:47.536Z",
+          "recogido": "2026-11-13T02:46:10.926Z"
         },
         "adjuntos": {
           "recibido": {
