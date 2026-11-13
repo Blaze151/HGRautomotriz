@@ -4217,159 +4217,159 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": {
-        "id": "svc_1793472483640",
-        "folio": "A034",
-        "tipo": "Reparación de Transmisión Automática. Reparación de control maestro de ventana delantera izquierda. Afinación motor a gasolina 4 cilindros motor 2.4 Lts. Limpieza interior exterior.",
-        "descripcion": "Reparación de Transmisión Automática. Reparación de control maestro de ventana delantera izquierda. Afinación motor a gasolina 4 cilindros motor 2.4 Lts. Limpieza interior exterior.",
-        "nota_interna": "",
-        "km": 184059,
-        "costo": null,
-        "tecnico": "SERGIO Guardado Martínez",
-        "tiempo_entrega_aprox": "Indeterminado",
-        "fecha_inicio": "2026-10-31",
-        "estado": "diagnostico",
-        "actualizado": "2026-10-31",
-        "pago": {
-          "estado": "no_pagado",
-          "metodo": null
-        },
-        "orden_recepcion": {
-          "enviado": false,
-          "aceptado": false,
-          "fecha_envio": null,
-          "fecha_aceptado": null,
-          "inventario": {
-            "exteriores": {
-              "antena": "no",
-              "espejo_lateral": "no",
-              "cristales": "no",
-              "emblema": "no",
-              "tapon_ruedas": "no",
-              "molduras_completas": "no",
-              "tapon_gasolina": "no"
-            },
-            "accesorios": {
-              "gato": "no",
-              "maneral_gato": "no",
-              "llave_ruedas": "no",
-              "estuche_herramientas": "no",
-              "triangulo_seguridad": "no",
-              "llanta_refaccion": "no",
-              "extinguidor": "no"
-            },
-            "gasolina": 0,
-            "danos_notas": ""
-          }
-        },
-        "cotizacion": {
-          "enviado": true,
-          "fecha_envio": "2026-11-11",
-          "pdf_path": "uploads/A10/20261111-103153-cotizacion.pdf",
-          "items": [
-            {
-              "concepto": "Reparación de Transmisión Automática.",
-              "cantidad": 1,
-              "costo_unitario": 8200
-            },
-            {
-              "concepto": "Reparación de control maestro de ventana delantera izquierda.",
-              "cantidad": 1,
-              "costo_unitario": 800
-            },
-            {
-              "concepto": "Afinación motor a gasolina 4 cilindros motor 2.4 Lts. Limpieza interior exterior.",
-              "cantidad": 1,
-              "costo_unitario": 3100
-            },
-            {
-              "concepto": "Limpieza exterior e interior",
-              "cantidad": 1,
-              "costo_unitario": 1
-            },
-            {
-              "concepto": "Revisión estéreo de agencia.",
-              "cantidad": 1,
-              "costo_unitario": 1
-            }
-          ],
-          "incluir_iva": true,
-          "observaciones": "La transmisión se reparó de la tarjeta electrónica. Garantía 6 meses. Mantenimiento a transmisión automática. \nAfinación con aceite sintético 5W 30. Se recomienda cambiar en los próximos 10,000 kms.\nMódulo de estereo dañado, se necesita uno nuevo con código de desbloqueo.",
-          "aceptado": false,
-          "fecha_aceptado": null
-        },
-        "informe_trabajo": {
-          "enviado": true,
-          "fecha_envio": "2026-10-31",
-          "pdf_path": "uploads/A10/20261031-134543-informe-trabajo.pdf"
-        },
-        "fechas_etapa": {
-          "recibido": "2026-10-31T18:48:03.640Z",
-          "diagnostico": "2026-10-31T18:48:07.081Z"
-        },
-        "adjuntos": {
-          "recibido": {
-            "fotos": [
-              "uploads/A10/20261031-131505-recibido-0-1000908422.jpg",
-              "uploads/A10/20261031-131508-recibido-1-1000908423.jpg",
-              "uploads/A10/20261031-131511-recibido-2-1000908424.jpg",
-              "uploads/A10/20261031-131514-recibido-3-1000908425.jpg",
-              "uploads/A10/20261031-131520-recibido-4-1000908426.jpg",
-              "uploads/A10/20261031-131526-recibido-5-1000908421.jpg",
-              "uploads/A10/20261031-131532-recibido-6-1000908427.jpg",
-              "uploads/A10/20261031-131540-recibido-7-1000908428.jpg",
-              "uploads/A10/20261031-131547-recibido-8-1000908429.jpg",
-              "uploads/A10/20261031-131554-recibido-9-1000908430.jpg",
-              "uploads/A10/20261031-131601-recibido-10-1000908431.jpg",
-              "uploads/A10/20261031-131608-recibido-11-1000908432.jpg",
-              "uploads/A10/20261031-131615-recibido-12-1000908433.jpg"
-            ],
-            "documentos": []
-          },
-          "diagnostico": {
-            "fotos": [
-              "uploads/A10/20261031-131622-diagnostico-0-1000921501.jpg",
-              "uploads/A10/20261031-131625-diagnostico-1-1000921500.jpg",
-              "uploads/A10/20261031-131640-diagnostico-2-1000921498.jpg",
-              "uploads/A10/20261031-131643-diagnostico-3-1000908433.jpg",
-              "uploads/A10/20261031-131646-diagnostico-4-1000908432.jpg",
-              "uploads/A10/20261031-131731-diagnostico-5-1000908431.jpg",
-              "uploads/A10/20261031-131735-diagnostico-6-1000908421.jpg",
-              "uploads/A10/20261031-131741-diagnostico-7-1000929140.jpg",
-              "uploads/A10/20261031-134051-diagnostico-0-1000929468.jpg",
-              "uploads/A10/20261031-134054-diagnostico-1-1000929470.jpg",
-              "uploads/A10/20261031-134056-diagnostico-2-1000929472.jpg",
-              "uploads/A10/20261031-134058-diagnostico-3-1000929476.jpg",
-              "uploads/A10/20261031-134403-diagnostico-0-1000923195.jpg",
-              "uploads/A10/20261031-134406-diagnostico-1-1000923194.jpg",
-              "uploads/A10/20261031-134409-diagnostico-2-1000923193.jpg",
-              "uploads/A10/20261031-134411-diagnostico-3-1000923192.jpg"
-            ],
-            "documentos": []
-          },
-          "en_proceso": {
-            "fotos": [],
-            "documentos": []
-          },
-          "listo": {
-            "fotos": [
-              "uploads/A10/20261031-134616-listo-0-1000929312.jpg",
-              "uploads/A10/20261031-134619-listo-1-1000929313.jpg",
-              "uploads/A10/20261031-134622-listo-2-1000929314.jpg"
-            ],
-            "documentos": []
-          },
-          "recogido": {
-            "fotos": [],
-            "documentos": []
-          },
+      "servicio_actual": null,
+      "servicios": [
+        {
+          "fecha": "2026-11-13",
+          "folio": "A034",
+          "tipo": "Reparación de Transmisión Automática. Reparación de control maestro de ventana delantera izquierda. Afinación motor a gasolina 4 cilindros motor 2.4 Lts. Limpieza interior exterior.",
+          "descripcion": "Reparación de Transmisión Automática. Reparación de control maestro de ventana delantera izquierda. Afinación motor a gasolina 4 cilindros motor 2.4 Lts. Limpieza interior exterior.",
+          "nota_interna": "",
+          "km": 184059,
+          "costo": null,
+          "tecnico": "SERGIO Guardado Martínez",
+          "tiempo_entrega_aprox": "Indeterminado",
+          "fecha_inicio": "2026-10-31",
           "pago": {
-            "fotos": [],
-            "documentos": []
+            "estado": "no_pagado",
+            "metodo": "transferencia"
+          },
+          "orden_recepcion": {
+            "enviado": false,
+            "aceptado": false,
+            "fecha_envio": null,
+            "fecha_aceptado": null,
+            "inventario": {
+              "exteriores": {
+                "antena": "no",
+                "espejo_lateral": "no",
+                "cristales": "no",
+                "emblema": "no",
+                "tapon_ruedas": "no",
+                "molduras_completas": "no",
+                "tapon_gasolina": "no"
+              },
+              "accesorios": {
+                "gato": "no",
+                "maneral_gato": "no",
+                "llave_ruedas": "no",
+                "estuche_herramientas": "no",
+                "triangulo_seguridad": "no",
+                "llanta_refaccion": "no",
+                "extinguidor": "no"
+              },
+              "gasolina": 0,
+              "danos_notas": ""
+            }
+          },
+          "cotizacion": {
+            "enviado": true,
+            "fecha_envio": "2026-11-11",
+            "pdf_path": "uploads/A10/20261111-103153-cotizacion.pdf",
+            "items": [
+              {
+                "concepto": "Reparación de Transmisión Automática.",
+                "cantidad": 1,
+                "costo_unitario": 8200
+              },
+              {
+                "concepto": "Reparación de control maestro de ventana delantera izquierda.",
+                "cantidad": 1,
+                "costo_unitario": 800
+              },
+              {
+                "concepto": "Afinación motor a gasolina 4 cilindros motor 2.4 Lts. Limpieza interior exterior.",
+                "cantidad": 1,
+                "costo_unitario": 3100
+              },
+              {
+                "concepto": "Limpieza exterior e interior",
+                "cantidad": 1,
+                "costo_unitario": 1
+              },
+              {
+                "concepto": "Revisión estéreo de agencia.",
+                "cantidad": 1,
+                "costo_unitario": 1
+              }
+            ],
+            "incluir_iva": true,
+            "observaciones": "La transmisión se reparó de la tarjeta electrónica. Garantía 6 meses. Mantenimiento a transmisión automática. \nAfinación con aceite sintético 5W 30. Se recomienda cambiar en los próximos 10,000 kms.\nMódulo de estereo dañado, se necesita uno nuevo con código de desbloqueo.",
+            "aceptado": false,
+            "fecha_aceptado": null
+          },
+          "informe_trabajo": {
+            "enviado": true,
+            "fecha_envio": "2026-10-31",
+            "pdf_path": "uploads/A10/20261031-134543-informe-trabajo.pdf"
+          },
+          "fechas_etapa": {
+            "recibido": "2026-10-31T18:48:03.640Z",
+            "diagnostico": "2026-10-31T18:48:07.081Z"
+          },
+          "adjuntos": {
+            "recibido": {
+              "fotos": [
+                "uploads/A10/20261031-131505-recibido-0-1000908422.jpg",
+                "uploads/A10/20261031-131508-recibido-1-1000908423.jpg",
+                "uploads/A10/20261031-131511-recibido-2-1000908424.jpg",
+                "uploads/A10/20261031-131514-recibido-3-1000908425.jpg",
+                "uploads/A10/20261031-131520-recibido-4-1000908426.jpg",
+                "uploads/A10/20261031-131526-recibido-5-1000908421.jpg",
+                "uploads/A10/20261031-131532-recibido-6-1000908427.jpg",
+                "uploads/A10/20261031-131540-recibido-7-1000908428.jpg",
+                "uploads/A10/20261031-131547-recibido-8-1000908429.jpg",
+                "uploads/A10/20261031-131554-recibido-9-1000908430.jpg",
+                "uploads/A10/20261031-131601-recibido-10-1000908431.jpg",
+                "uploads/A10/20261031-131608-recibido-11-1000908432.jpg",
+                "uploads/A10/20261031-131615-recibido-12-1000908433.jpg"
+              ],
+              "documentos": []
+            },
+            "diagnostico": {
+              "fotos": [
+                "uploads/A10/20261031-131622-diagnostico-0-1000921501.jpg",
+                "uploads/A10/20261031-131625-diagnostico-1-1000921500.jpg",
+                "uploads/A10/20261031-131640-diagnostico-2-1000921498.jpg",
+                "uploads/A10/20261031-131643-diagnostico-3-1000908433.jpg",
+                "uploads/A10/20261031-131646-diagnostico-4-1000908432.jpg",
+                "uploads/A10/20261031-131731-diagnostico-5-1000908431.jpg",
+                "uploads/A10/20261031-131735-diagnostico-6-1000908421.jpg",
+                "uploads/A10/20261031-131741-diagnostico-7-1000929140.jpg",
+                "uploads/A10/20261031-134051-diagnostico-0-1000929468.jpg",
+                "uploads/A10/20261031-134054-diagnostico-1-1000929470.jpg",
+                "uploads/A10/20261031-134056-diagnostico-2-1000929472.jpg",
+                "uploads/A10/20261031-134058-diagnostico-3-1000929476.jpg",
+                "uploads/A10/20261031-134403-diagnostico-0-1000923195.jpg",
+                "uploads/A10/20261031-134406-diagnostico-1-1000923194.jpg",
+                "uploads/A10/20261031-134409-diagnostico-2-1000923193.jpg",
+                "uploads/A10/20261031-134411-diagnostico-3-1000923192.jpg"
+              ],
+              "documentos": []
+            },
+            "en_proceso": {
+              "fotos": [],
+              "documentos": []
+            },
+            "listo": {
+              "fotos": [
+                "uploads/A10/20261031-134616-listo-0-1000929312.jpg",
+                "uploads/A10/20261031-134619-listo-1-1000929313.jpg",
+                "uploads/A10/20261031-134622-listo-2-1000929314.jpg"
+              ],
+              "documentos": []
+            },
+            "recogido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "pago": {
+              "fotos": [],
+              "documentos": []
+            }
           }
         }
-      },
-      "servicios": []
+      ]
     },
     "A20": {
       "id": "A20",
