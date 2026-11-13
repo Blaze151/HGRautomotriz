@@ -4404,123 +4404,123 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": {
-        "id": "svc_1794419181847",
-        "folio": "A035",
-        "tipo": "Controles de llaves nuevos",
-        "descripcion": "Cambio de carcasa de llaves originales Chevrolet de dos botones",
-        "nota_interna": "",
-        "km": 86491,
-        "costo": 1000,
-        "tecnico": "Sergio G",
-        "tiempo_entrega_aprox": "3 dias",
-        "fecha_inicio": "2026-11-11",
-        "estado": "listo",
-        "actualizado": "2026-11-11",
-        "pago": {
-          "estado": "no_pagado",
-          "metodo": null
-        },
-        "orden_recepcion": {
-          "enviado": true,
-          "aceptado": true,
-          "fecha_envio": "2026-11-11",
-          "fecha_aceptado": "2026-11-11",
-          "inventario": {
-            "exteriores": {
-              "antena": "si",
-              "espejo_lateral": "si",
-              "cristales": "si",
-              "emblema": "si",
-              "tapon_ruedas": "si",
-              "molduras_completas": "si",
-              "tapon_gasolina": "si"
-            },
-            "accesorios": {
-              "gato": "si",
-              "maneral_gato": "si",
-              "llave_ruedas": "si",
-              "estuche_herramientas": "si",
-              "triangulo_seguridad": "si",
-              "llanta_refaccion": "si",
-              "extinguidor": "si"
-            },
-            "gasolina": 50,
-            "danos_notas": "Carcasa de llaves dañadas.\nRaspón en facia delantera lado derecho"
-          },
-          "pdf_path": "uploads/A20/20261111-114941-informe-recepcion.pdf"
-        },
-        "cotizacion": {
-          "enviado": true,
-          "fecha_envio": "2026-11-11",
-          "pdf_path": "uploads/A20/20261111-115023-cotizacion.pdf",
-          "items": [
-            {
-              "concepto": "Cambio de carcasa de llaves de Chevrolet original de dos botones",
-              "cantidad": 2,
-              "costo_unitario": 500
-            }
-          ],
-          "incluir_iva": false,
-          "observaciones": "Incluye batería CR2032 NUEVAS",
-          "aceptado": true,
-          "fecha_aceptado": "2026-11-11"
-        },
-        "informe_trabajo": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null
-        },
-        "fechas_etapa": {
-          "recibido": "2026-11-11T17:46:21.847Z",
-          "diagnostico": "2026-11-11T17:48:09.284Z",
-          "en_proceso": "2026-11-11T17:50:39.200Z",
-          "listo": "2026-11-11T17:50:56.925Z"
-        },
-        "adjuntos": {
-          "recibido": {
-            "fotos": [
-              "uploads/A20/20261111-114733-recibido-0-1000959534.jpg",
-              "uploads/A20/20261111-114735-recibido-1-1000959535.jpg",
-              "uploads/A20/20261111-114738-recibido-2-1000959536.jpg",
-              "uploads/A20/20261111-114740-recibido-3-1000959538.jpg",
-              "uploads/A20/20261111-114742-recibido-4-1000959546.jpg",
-              "uploads/A20/20261111-114745-recibido-5-1000959547.jpg",
-              "uploads/A20/20261111-114747-recibido-6-1000959548.jpg",
-              "uploads/A20/20261111-114749-recibido-7-1000959549.jpg",
-              "uploads/A20/20261111-114751-recibido-8-1000959550.jpg",
-              "uploads/A20/20261111-114754-recibido-9-1000959551.jpg",
-              "uploads/A20/20261111-115306-recibido-0-1000959634.jpg",
-              "uploads/A20/20261111-115309-recibido-1-1000959635.jpg"
-            ],
-            "documentos": []
-          },
-          "diagnostico": {
-            "fotos": [],
-            "documentos": []
-          },
-          "en_proceso": {
-            "fotos": [
-              "uploads/A20/20261111-115057-en_proceso-0-1000959552.jpg",
-              "uploads/A20/20261111-115059-en_proceso-1-1000959553.jpg"
-            ],
-            "documentos": []
-          },
-          "listo": {
-            "fotos": [],
-            "documentos": []
-          },
-          "recogido": {
-            "fotos": [],
-            "documentos": []
-          },
+      "servicio_actual": null,
+      "servicios": [
+        {
+          "fecha": "2026-11-13",
+          "folio": "A035",
+          "tipo": "Controles de llaves nuevos",
+          "descripcion": "Cambio de carcasa de llaves originales Chevrolet de dos botones",
+          "nota_interna": "",
+          "km": 86491,
+          "costo": 1000,
+          "tecnico": "Sergio G",
+          "tiempo_entrega_aprox": "3 dias",
+          "fecha_inicio": "2026-11-11",
           "pago": {
-            "fotos": [],
-            "documentos": []
+            "estado": "no_pagado",
+            "metodo": "efectivo"
+          },
+          "orden_recepcion": {
+            "enviado": true,
+            "aceptado": true,
+            "fecha_envio": "2026-11-11",
+            "fecha_aceptado": "2026-11-11",
+            "inventario": {
+              "exteriores": {
+                "antena": "si",
+                "espejo_lateral": "si",
+                "cristales": "si",
+                "emblema": "si",
+                "tapon_ruedas": "si",
+                "molduras_completas": "si",
+                "tapon_gasolina": "si"
+              },
+              "accesorios": {
+                "gato": "si",
+                "maneral_gato": "si",
+                "llave_ruedas": "si",
+                "estuche_herramientas": "si",
+                "triangulo_seguridad": "si",
+                "llanta_refaccion": "si",
+                "extinguidor": "si"
+              },
+              "gasolina": 50,
+              "danos_notas": "Carcasa de llaves dañadas.\nRaspón en facia delantera lado derecho"
+            },
+            "pdf_path": "uploads/A20/20261111-114941-informe-recepcion.pdf"
+          },
+          "cotizacion": {
+            "enviado": true,
+            "fecha_envio": "2026-11-11",
+            "pdf_path": "uploads/A20/20261111-115023-cotizacion.pdf",
+            "items": [
+              {
+                "concepto": "Cambio de carcasa de llaves de Chevrolet original de dos botones",
+                "cantidad": 2,
+                "costo_unitario": 500
+              }
+            ],
+            "incluir_iva": false,
+            "observaciones": "Incluye batería CR2032 NUEVAS",
+            "aceptado": true,
+            "fecha_aceptado": "2026-11-11"
+          },
+          "informe_trabajo": {
+            "enviado": false,
+            "fecha_envio": null,
+            "pdf_path": null
+          },
+          "fechas_etapa": {
+            "recibido": "2026-11-11T17:46:21.847Z",
+            "diagnostico": "2026-11-11T17:48:09.284Z",
+            "en_proceso": "2026-11-11T17:50:39.200Z",
+            "listo": "2026-11-11T17:50:56.925Z"
+          },
+          "adjuntos": {
+            "recibido": {
+              "fotos": [
+                "uploads/A20/20261111-114733-recibido-0-1000959534.jpg",
+                "uploads/A20/20261111-114735-recibido-1-1000959535.jpg",
+                "uploads/A20/20261111-114738-recibido-2-1000959536.jpg",
+                "uploads/A20/20261111-114740-recibido-3-1000959538.jpg",
+                "uploads/A20/20261111-114742-recibido-4-1000959546.jpg",
+                "uploads/A20/20261111-114745-recibido-5-1000959547.jpg",
+                "uploads/A20/20261111-114747-recibido-6-1000959548.jpg",
+                "uploads/A20/20261111-114749-recibido-7-1000959549.jpg",
+                "uploads/A20/20261111-114751-recibido-8-1000959550.jpg",
+                "uploads/A20/20261111-114754-recibido-9-1000959551.jpg",
+                "uploads/A20/20261111-115306-recibido-0-1000959634.jpg",
+                "uploads/A20/20261111-115309-recibido-1-1000959635.jpg"
+              ],
+              "documentos": []
+            },
+            "diagnostico": {
+              "fotos": [],
+              "documentos": []
+            },
+            "en_proceso": {
+              "fotos": [
+                "uploads/A20/20261111-115057-en_proceso-0-1000959552.jpg",
+                "uploads/A20/20261111-115059-en_proceso-1-1000959553.jpg"
+              ],
+              "documentos": []
+            },
+            "listo": {
+              "fotos": [],
+              "documentos": []
+            },
+            "recogido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "pago": {
+              "fotos": [],
+              "documentos": []
+            }
           }
         }
-      },
-      "servicios": []
+      ]
     },
     "A19": {
       "id": "A19",
