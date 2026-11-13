@@ -3638,143 +3638,141 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": {
-        "id": "svc_1793309676304",
-        "folio": "A029",
-        "tipo": "Reparación choque frontal",
-        "descripcion": "Reparación choque frontal lado izquierdo reposición de faro pintura en cofre facia y salpicadera izquierda. Colocación de moldura lado izquierdo facia delantera",
-        "nota_interna": "",
-        "km": 55564,
-        "costo": null,
-        "tecnico": "Manuel",
-        "tiempo_entrega_aprox": "",
-        "fecha_inicio": "2026-10-29",
-        "estado": "diagnostico",
-        "actualizado": "2026-10-29",
-        "pago": {
-          "estado": "a_deber",
-          "metodo": "transferencia",
-          "monto_pagado": 2000,
-          "saldo_pendiente": 4288
-        },
-        "orden_recepcion": {
-          "enviado": true,
-          "aceptado": true,
-          "fecha_envio": "2026-10-29",
-          "fecha_aceptado": "2026-10-29",
-          "inventario": {
-            "exteriores": {
-              "antena": "si",
-              "espejo_lateral": "si",
-              "cristales": "si",
-              "emblema": "si",
-              "tapon_ruedas": "si",
-              "molduras_completas": "si",
-              "tapon_gasolina": "si"
-            },
-            "accesorios": {
-              "gato": "si",
-              "maneral_gato": "si",
-              "llave_ruedas": "si",
-              "estuche_herramientas": "si",
-              "triangulo_seguridad": "si",
-              "llanta_refaccion": "si",
-              "extinguidor": "si"
-            },
-            "gasolina": 50,
-            "danos_notas": ""
-          },
-          "pdf_path": "uploads/A07/20261029-154104-informe-recepcion.pdf"
-        },
-        "cotizacion": {
-          "enviado": true,
-          "fecha_envio": "2026-10-29",
-          "pdf_path": "uploads/A07/20261029-161410-cotizacion.pdf",
-          "items": [
-            {
-              "concepto": "Enderezado de cofre, reparación de facia delantera, ajuste en salpicadera izquierda, colocación de faro nuevo lado izquierdo, colocación de moldura de facia delantera lado izquierdo, pintura automotriz color blanco",
-              "cantidad": 1,
-              "costo_unitario": 4200
-            },
-            {
-              "concepto": "Faro izquierdo",
-              "cantidad": 1,
-              "costo_unitario": 2088
-            }
-          ],
-          "incluir_iva": false,
-          "observaciones": "El cofre se tiene que enderezar, difuminar el color blanco, y posterior toda la pieza lleva transparente.\n\nLa facia se repararia con pasta automotriz, y después de pintaría. \n\nEl faro es completamente nuevo.\n\nLa moldura de la facia se colocaría la misma que se desprendió.",
-          "aceptado": false,
-          "fecha_aceptado": null
-        },
-        "informe_trabajo": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null
-        },
-        "fechas_etapa": {
-          "recibido": "2026-10-29T21:34:36.304Z",
-          "diagnostico": "2026-10-29T21:41:07.734Z"
-        },
-        "adjuntos": {
-          "recibido": {
-            "fotos": [
-              "uploads/A07/20261029-153628-recibido-0-1000924002.jpg",
-              "uploads/A07/20261029-153632-recibido-1-1000924003.jpg",
-              "uploads/A07/20261029-153635-recibido-2-1000924004.jpg",
-              "uploads/A07/20261029-153637-recibido-3-1000924005.jpg",
-              "uploads/A07/20261029-153640-recibido-4-1000924006.jpg",
-              "uploads/A07/20261029-153644-recibido-5-1000924007.jpg",
-              "uploads/A07/20261029-153647-recibido-6-1000924008.jpg",
-              "uploads/A07/20261029-153649-recibido-7-1000924009.jpg",
-              "uploads/A07/20261029-153652-recibido-8-1000924010.jpg",
-              "uploads/A07/20261029-153659-recibido-9-1000924011.jpg",
-              "uploads/A07/20261029-153704-recibido-10-1000924012.jpg",
-              "uploads/A07/20261029-153721-recibido-11-1000924013.jpg",
-              "uploads/A07/20261029-153724-recibido-12-1000924014.jpg",
-              "uploads/A07/20261029-153731-recibido-13-1000924015.jpg",
-              "uploads/A07/20261029-153741-recibido-14-1000924016.jpg",
-              "uploads/A07/20261029-153756-recibido-15-1000924017.jpg",
-              "uploads/A07/20261029-153802-recibido-16-1000924018.jpg",
-              "uploads/A07/20261029-153806-recibido-17-1000924019.jpg",
-              "uploads/A07/20261029-153821-recibido-18-1000924020.jpg",
-              "uploads/A07/20261029-153824-recibido-19-1000924021.jpg",
-              "uploads/A07/20261029-153827-recibido-20-1000924022.jpg"
-            ],
-            "documentos": []
-          },
-          "diagnostico": {
-            "fotos": [],
-            "documentos": []
-          },
-          "en_proceso": {
-            "fotos": [
-              "uploads/A07/20261031-155946-en_proceso-0-1000926379.jpg",
-              "uploads/A07/20261031-160040-en_proceso-0-1000929907.jpg",
-              "uploads/A07/20261031-160042-en_proceso-1-1000929273.jpg",
-              "uploads/A07/20261031-160045-en_proceso-2-1000929272.jpg",
-              "uploads/A07/20261031-160048-en_proceso-3-1000929271.jpg",
-              "uploads/A07/20261102-111933-en_proceso-0-1000935876.jpg",
-              "uploads/A07/20261102-111936-en_proceso-1-1000935877.jpg",
-              "uploads/A07/20261102-111938-en_proceso-2-1000935878.jpg"
-            ],
-            "documentos": []
-          },
-          "listo": {
-            "fotos": [],
-            "documentos": []
-          },
-          "recogido": {
-            "fotos": [],
-            "documentos": []
-          },
+      "servicio_actual": null,
+      "servicios": [
+        {
+          "fecha": "2026-11-13",
+          "folio": "A029",
+          "tipo": "Reparación choque frontal",
+          "descripcion": "Reparación choque frontal lado izquierdo reposición de faro pintura en cofre facia y salpicadera izquierda. Colocación de moldura lado izquierdo facia delantera",
+          "nota_interna": "",
+          "km": 55564,
+          "costo": null,
+          "tecnico": "Manuel",
+          "tiempo_entrega_aprox": "",
+          "fecha_inicio": "2026-10-29",
           "pago": {
-            "fotos": [],
-            "documentos": []
+            "estado": "pagado",
+            "metodo": "transferencia"
+          },
+          "orden_recepcion": {
+            "enviado": true,
+            "aceptado": true,
+            "fecha_envio": "2026-10-29",
+            "fecha_aceptado": "2026-10-29",
+            "inventario": {
+              "exteriores": {
+                "antena": "si",
+                "espejo_lateral": "si",
+                "cristales": "si",
+                "emblema": "si",
+                "tapon_ruedas": "si",
+                "molduras_completas": "si",
+                "tapon_gasolina": "si"
+              },
+              "accesorios": {
+                "gato": "si",
+                "maneral_gato": "si",
+                "llave_ruedas": "si",
+                "estuche_herramientas": "si",
+                "triangulo_seguridad": "si",
+                "llanta_refaccion": "si",
+                "extinguidor": "si"
+              },
+              "gasolina": 50,
+              "danos_notas": ""
+            },
+            "pdf_path": "uploads/A07/20261029-154104-informe-recepcion.pdf"
+          },
+          "cotizacion": {
+            "enviado": true,
+            "fecha_envio": "2026-10-29",
+            "pdf_path": "uploads/A07/20261029-161410-cotizacion.pdf",
+            "items": [
+              {
+                "concepto": "Enderezado de cofre, reparación de facia delantera, ajuste en salpicadera izquierda, colocación de faro nuevo lado izquierdo, colocación de moldura de facia delantera lado izquierdo, pintura automotriz color blanco",
+                "cantidad": 1,
+                "costo_unitario": 4200
+              },
+              {
+                "concepto": "Faro izquierdo",
+                "cantidad": 1,
+                "costo_unitario": 2088
+              }
+            ],
+            "incluir_iva": false,
+            "observaciones": "El cofre se tiene que enderezar, difuminar el color blanco, y posterior toda la pieza lleva transparente.\n\nLa facia se repararia con pasta automotriz, y después de pintaría. \n\nEl faro es completamente nuevo.\n\nLa moldura de la facia se colocaría la misma que se desprendió.",
+            "aceptado": false,
+            "fecha_aceptado": null
+          },
+          "informe_trabajo": {
+            "enviado": false,
+            "fecha_envio": null,
+            "pdf_path": null
+          },
+          "fechas_etapa": {
+            "recibido": "2026-10-29T21:34:36.304Z",
+            "diagnostico": "2026-10-29T21:41:07.734Z"
+          },
+          "adjuntos": {
+            "recibido": {
+              "fotos": [
+                "uploads/A07/20261029-153628-recibido-0-1000924002.jpg",
+                "uploads/A07/20261029-153632-recibido-1-1000924003.jpg",
+                "uploads/A07/20261029-153635-recibido-2-1000924004.jpg",
+                "uploads/A07/20261029-153637-recibido-3-1000924005.jpg",
+                "uploads/A07/20261029-153640-recibido-4-1000924006.jpg",
+                "uploads/A07/20261029-153644-recibido-5-1000924007.jpg",
+                "uploads/A07/20261029-153647-recibido-6-1000924008.jpg",
+                "uploads/A07/20261029-153649-recibido-7-1000924009.jpg",
+                "uploads/A07/20261029-153652-recibido-8-1000924010.jpg",
+                "uploads/A07/20261029-153659-recibido-9-1000924011.jpg",
+                "uploads/A07/20261029-153704-recibido-10-1000924012.jpg",
+                "uploads/A07/20261029-153721-recibido-11-1000924013.jpg",
+                "uploads/A07/20261029-153724-recibido-12-1000924014.jpg",
+                "uploads/A07/20261029-153731-recibido-13-1000924015.jpg",
+                "uploads/A07/20261029-153741-recibido-14-1000924016.jpg",
+                "uploads/A07/20261029-153756-recibido-15-1000924017.jpg",
+                "uploads/A07/20261029-153802-recibido-16-1000924018.jpg",
+                "uploads/A07/20261029-153806-recibido-17-1000924019.jpg",
+                "uploads/A07/20261029-153821-recibido-18-1000924020.jpg",
+                "uploads/A07/20261029-153824-recibido-19-1000924021.jpg",
+                "uploads/A07/20261029-153827-recibido-20-1000924022.jpg"
+              ],
+              "documentos": []
+            },
+            "diagnostico": {
+              "fotos": [],
+              "documentos": []
+            },
+            "en_proceso": {
+              "fotos": [
+                "uploads/A07/20261031-155946-en_proceso-0-1000926379.jpg",
+                "uploads/A07/20261031-160040-en_proceso-0-1000929907.jpg",
+                "uploads/A07/20261031-160042-en_proceso-1-1000929273.jpg",
+                "uploads/A07/20261031-160045-en_proceso-2-1000929272.jpg",
+                "uploads/A07/20261031-160048-en_proceso-3-1000929271.jpg",
+                "uploads/A07/20261102-111933-en_proceso-0-1000935876.jpg",
+                "uploads/A07/20261102-111936-en_proceso-1-1000935877.jpg",
+                "uploads/A07/20261102-111938-en_proceso-2-1000935878.jpg"
+              ],
+              "documentos": []
+            },
+            "listo": {
+              "fotos": [],
+              "documentos": []
+            },
+            "recogido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "pago": {
+              "fotos": [],
+              "documentos": []
+            }
           }
         }
-      },
-      "servicios": []
+      ]
     },
     "A08": {
       "id": "A08",
