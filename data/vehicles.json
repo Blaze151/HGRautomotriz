@@ -1752,6 +1752,7 @@
     },
     "A01": {
       "id": "A01",
+      "fecha_creacion": "2026-11-13T02:51:23.584Z",
       "foto_perfil": "uploads/X30/20260918-160558-perfil.jpg",
       "documentos_vehiculo": {
         "fotos": [
@@ -1777,6 +1778,7 @@
       "cliente_correo": "luisgermangarciag@gmail.com",
       "cliente_rfc": "",
       "cliente_direccion": "",
+      "cliente_actualizado": null,
       "ficha_tecnica": {
         "aceite_tipo": "5W20",
         "aceite_capacidad": "8 LTS",
@@ -1790,6 +1792,7 @@
         "folio": "A015",
         "tipo": "Servicio de mantenimiento y revisión de bandas y poleas",
         "descripcion": "Revisión de bandas y poleas por ruido y servicio",
+        "nota_interna": "",
         "km": 359737.2,
         "costo": null,
         "tecnico": "Oscar flores",
@@ -1897,8 +1900,8 @@
           "tiempo_entrega_aprox": "1 día de trabajo",
           "fecha_inicio": "2026-09-18",
           "pago": {
-            "estado": "no_pagado",
-            "metodo": null
+            "estado": "pagado",
+            "metodo": "transferencia"
           },
           "orden_recepcion": {
             "enviado": false,
