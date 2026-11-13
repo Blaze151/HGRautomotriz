@@ -1778,7 +1778,7 @@
       "cliente_correo": "luisgermangarciag@gmail.com",
       "cliente_rfc": "",
       "cliente_direccion": "",
-      "cliente_actualizado": null,
+      "cliente_actualizado": "2026-11-13T02:51:23.584Z",
       "ficha_tecnica": {
         "aceite_tipo": "5W20",
         "aceite_capacidad": "8 LTS",
@@ -1787,108 +1787,108 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": {
-        "id": "svc_1789842683158",
-        "folio": "A015",
-        "tipo": "Servicio de mantenimiento y revisión de bandas y poleas",
-        "descripcion": "Revisión de bandas y poleas por ruido y servicio",
-        "nota_interna": "",
-        "km": 359737.2,
-        "costo": null,
-        "tecnico": "Oscar flores",
-        "tiempo_entrega_aprox": "2 dias",
-        "fecha_inicio": "2026-09-19",
-        "estado": "listo",
-        "actualizado": "2026-09-20",
-        "pago": {
-          "estado": "no_pagado",
-          "metodo": null
-        },
-        "orden_recepcion": {
-          "enviado": false,
-          "aceptado": false,
-          "fecha_envio": null,
-          "fecha_aceptado": null,
-          "inventario": {
-            "exteriores": {
-              "antena": "si",
-              "espejo_lateral": "si",
-              "cristales": "no",
-              "emblema": "si",
-              "tapon_ruedas": "si",
-              "molduras_completas": "si",
-              "tapon_gasolina": "si"
-            },
-            "accesorios": {
-              "gato": "no",
-              "maneral_gato": "no",
-              "llave_ruedas": "no",
-              "estuche_herramientas": "no",
-              "triangulo_seguridad": "no",
-              "llanta_refaccion": "no",
-              "extinguidor": "no"
-            },
-            "gasolina": 50,
-            "danos_notas": "Parabrisas estrellado"
-          }
-        },
-        "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
-          "items": [
-            {
-              "concepto": "",
-              "cantidad": 1,
-              "costo_unitario": null
-            }
-          ],
-          "incluir_iva": true,
-          "observaciones": "",
-          "aceptado": false,
-          "fecha_aceptado": null
-        },
-        "informe_trabajo": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null
-        },
-        "adjuntos": {
-          "recibido": {
-            "fotos": [],
-            "documentos": []
-          },
-          "diagnostico": {
-            "fotos": [],
-            "documentos": []
-          },
-          "en_proceso": {
-            "fotos": [
-              "uploads/X30/20260919-145748-en_proceso-0-1000126719.jpg",
-              "uploads/X30/20260919-145750-en_proceso-1-1000126718.jpg",
-              "uploads/X30/20260919-155400-en_proceso-0-1000126812.jpg",
-              "uploads/X30/20260919-155402-en_proceso-1-1000126802.jpg",
-              "uploads/X30/20260919-155613-en_proceso-0-1000126799.jpg",
-              "uploads/X30/20260919-162041-en_proceso-0-1000126862.jpg",
-              "uploads/X30/20260919-162044-en_proceso-1-1000126867.jpg"
-            ],
-            "documentos": []
-          },
-          "listo": {
-            "fotos": [],
-            "documentos": []
-          },
-          "recogido": {
-            "fotos": [],
-            "documentos": []
-          },
-          "pago": {
-            "fotos": [],
-            "documentos": []
-          }
-        }
-      },
+      "servicio_actual": null,
       "servicios": [
+        {
+          "fecha": "2026-11-13",
+          "folio": "A015",
+          "tipo": "Servicio de mantenimiento y revisión de bandas y poleas",
+          "descripcion": "Revisión de bandas y poleas por ruido y servicio",
+          "nota_interna": "",
+          "km": 359737.2,
+          "costo": null,
+          "tecnico": "Oscar flores",
+          "tiempo_entrega_aprox": "2 dias",
+          "fecha_inicio": "2026-09-19",
+          "pago": {
+            "estado": "no_pagado",
+            "metodo": null
+          },
+          "orden_recepcion": {
+            "enviado": false,
+            "aceptado": false,
+            "fecha_envio": null,
+            "fecha_aceptado": null,
+            "inventario": {
+              "exteriores": {
+                "antena": "si",
+                "espejo_lateral": "si",
+                "cristales": "no",
+                "emblema": "si",
+                "tapon_ruedas": "si",
+                "molduras_completas": "si",
+                "tapon_gasolina": "si"
+              },
+              "accesorios": {
+                "gato": "no",
+                "maneral_gato": "no",
+                "llave_ruedas": "no",
+                "estuche_herramientas": "no",
+                "triangulo_seguridad": "no",
+                "llanta_refaccion": "no",
+                "extinguidor": "no"
+              },
+              "gasolina": 50,
+              "danos_notas": "Parabrisas estrellado"
+            }
+          },
+          "cotizacion": {
+            "enviado": false,
+            "fecha_envio": null,
+            "pdf_path": null,
+            "items": [
+              {
+                "concepto": "",
+                "cantidad": 1,
+                "costo_unitario": null
+              }
+            ],
+            "incluir_iva": true,
+            "observaciones": "",
+            "aceptado": false,
+            "fecha_aceptado": null
+          },
+          "informe_trabajo": {
+            "enviado": false,
+            "fecha_envio": null,
+            "pdf_path": null
+          },
+          "fechas_etapa": null,
+          "adjuntos": {
+            "recibido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "diagnostico": {
+              "fotos": [],
+              "documentos": []
+            },
+            "en_proceso": {
+              "fotos": [
+                "uploads/X30/20260919-145748-en_proceso-0-1000126719.jpg",
+                "uploads/X30/20260919-145750-en_proceso-1-1000126718.jpg",
+                "uploads/X30/20260919-155400-en_proceso-0-1000126812.jpg",
+                "uploads/X30/20260919-155402-en_proceso-1-1000126802.jpg",
+                "uploads/X30/20260919-155613-en_proceso-0-1000126799.jpg",
+                "uploads/X30/20260919-162041-en_proceso-0-1000126862.jpg",
+                "uploads/X30/20260919-162044-en_proceso-1-1000126867.jpg"
+              ],
+              "documentos": []
+            },
+            "listo": {
+              "fotos": [],
+              "documentos": []
+            },
+            "recogido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "pago": {
+              "fotos": [],
+              "documentos": []
+            }
+          }
+        },
         {
           "fecha": "2026-09-19",
           "folio": "A014",
