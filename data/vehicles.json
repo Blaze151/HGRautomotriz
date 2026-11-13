@@ -4566,8 +4566,8 @@
         "tecnico": "Antonio",
         "tiempo_entrega_aprox": "2 días",
         "fecha_inicio": "2026-11-12",
-        "estado": "recibido",
-        "actualizado": "2026-11-12",
+        "estado": "recogido",
+        "actualizado": "2026-11-13",
         "pago": {
           "estado": "no_pagado",
           "metodo": null
@@ -4622,7 +4622,8 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-11-12T20:19:22.571Z"
+          "recibido": "2026-11-12T20:19:22.571Z",
+          "recogido": "2026-11-13T02:41:10.689Z"
         },
         "adjuntos": {
           "recibido": {
