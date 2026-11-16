@@ -4692,5 +4692,15 @@
       ]
     }
   },
-  "folio_counter": 35
+  "folio_counter": 36,
+  "mecanicos": [
+    {
+      "id": "mec_mwij5t3gtuyx",
+      "nombre": "Marco",
+      "salt": "17901b2183a00dc3",
+      "pin_hash": "518fc686cbca4e513954a0cec44c56fbbd31873b5510cf6af2ce6f386197ed4e",
+      "activo": true,
+      "creado": "2026-11-16T00:33:39.734Z"
+    }
+  ]
 }
