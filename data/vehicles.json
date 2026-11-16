@@ -4745,6 +4745,14 @@
       "pin_hash": "87c55aaf0e653c75a37955f2d39b738d96e6d3bb01868d60b718b29a99bb4ae7",
       "activo": true,
       "creado": "2026-11-16T00:37:47.016Z"
+    },
+    {
+      "id": "mec_mwijbs1ijkm3",
+      "nombre": "Edgar",
+      "salt": "81beeaf0d51c48d5",
+      "pin_hash": "9b345347d31b1c8946f9ff76ff63c271bd8006d0d0755a6689a67cf61d109d67",
+      "activo": true,
+      "creado": "2026-11-16T00:38:18.294Z"
     }
   ],
   "requisitos_mecanico": {
