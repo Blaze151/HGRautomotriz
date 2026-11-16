@@ -4702,5 +4702,19 @@
       "activo": true,
       "creado": "2026-11-16T00:33:39.734Z"
     }
-  ]
+  ],
+  "requisitos_mecanico": {
+    "diagnostico": {
+      "min_fotos": 3,
+      "nota": true
+    },
+    "en_proceso": {
+      "min_fotos": 3,
+      "nota": true
+    },
+    "listo": {
+      "min_fotos": 3,
+      "nota": true
+    }
+  }
 }
