@@ -4838,14 +4838,6 @@
       "telefono": "8711222723"
     },
     {
-      "id": "mec_mwijb3wnub4o",
-      "nombre": "Manuel",
-      "salt": "c31b1f6d5d669ca3",
-      "pin_hash": "87c55aaf0e653c75a37955f2d39b738d96e6d3bb01868d60b718b29a99bb4ae7",
-      "activo": true,
-      "creado": "2026-11-16T00:37:47.016Z"
-    },
-    {
       "id": "mec_mwijbs1ijkm3",
       "nombre": "Edgar",
       "salt": "81beeaf0d51c48d5",
