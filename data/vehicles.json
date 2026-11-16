@@ -4836,6 +4836,15 @@
       "activo": true,
       "creado": "2026-11-16T00:33:39.734Z",
       "telefono": "8711222723"
+    },
+    {
+      "id": "mec_mwipanbsl6zy",
+      "nombre": "Sergio",
+      "salt": "2abceca7c06d1749",
+      "pin_hash": "9047328b6118151df16d12bfa5d9e1dc47078001b653fabc5e7689ff43b3c42e",
+      "activo": true,
+      "creado": "2026-11-16T03:25:23.228Z",
+      "telefono": "8711044146"
     }
   ],
   "requisitos_mecanico": {
