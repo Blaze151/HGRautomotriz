@@ -4802,7 +4802,9 @@
             "documentos": []
           },
           "diagnostico": {
-            "fotos": [],
+            "fotos": [
+              "uploads/X18/20261116-103508-diagnostico-m1-17948468683123325059041550707398.jpg"
+            ],
             "documentos": []
           },
           "en_proceso": {
@@ -4824,7 +4826,20 @@
         },
         "mecanicos": [
           "mec_mwij5t3gtuyx"
-        ]
+        ],
+        "mec": {
+          "notas": {
+            "diagnostico": {
+              "texto": "El filtro estaba muy sucio",
+              "por": "mec_mwij5t3gtuyx",
+              "nombre": "Marco",
+              "fecha": "2026-11-16T16:35:10.959Z"
+            }
+          },
+          "solicitud": null,
+          "autorizaciones": {},
+          "rechazo": null
+        }
       },
       "servicios": []
     }
