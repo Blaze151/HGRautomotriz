@@ -4831,8 +4831,8 @@
     {
       "id": "mec_mwij5t3gtuyx",
       "nombre": "Marco",
-      "salt": "17901b2183a00dc3",
-      "pin_hash": "518fc686cbca4e513954a0cec44c56fbbd31873b5510cf6af2ce6f386197ed4e",
+      "salt": "46f4fd2b1d64ea8c",
+      "pin_hash": "3ffeb2b6d01455183dc7b0a8827b0b9cbf00e10c6deea215887b2b05fc0944e8",
       "activo": true,
       "creado": "2026-11-16T00:33:39.734Z",
       "telefono": "8714376429"
