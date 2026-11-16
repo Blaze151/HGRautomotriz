@@ -4809,7 +4809,9 @@
             "documentos": []
           },
           "en_proceso": {
-            "fotos": [],
+            "fotos": [
+              "uploads/X18/20261116-103642-en_proceso-m1-17948469736922039176256517672131.jpg"
+            ],
             "documentos": []
           },
           "listo": {
@@ -4835,6 +4837,12 @@
               "por": "mec_mwij5t3gtuyx",
               "nombre": "Marco",
               "fecha": "2026-11-16T16:35:10.959Z"
+            },
+            "en_proceso": {
+              "texto": "Afinación lista",
+              "por": "mec_mwij5t3gtuyx",
+              "nombre": "Marco",
+              "fecha": "2026-11-16T16:36:44.765Z"
             }
           },
           "solicitud": null,
