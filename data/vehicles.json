@@ -4737,6 +4737,14 @@
       "pin_hash": "518fc686cbca4e513954a0cec44c56fbbd31873b5510cf6af2ce6f386197ed4e",
       "activo": true,
       "creado": "2026-11-16T00:33:39.734Z"
+    },
+    {
+      "id": "mec_mwijb3wnub4o",
+      "nombre": "Manuel",
+      "salt": "c31b1f6d5d669ca3",
+      "pin_hash": "87c55aaf0e653c75a37955f2d39b738d96e6d3bb01868d60b718b29a99bb4ae7",
+      "activo": true,
+      "creado": "2026-11-16T00:37:47.016Z"
     }
   ],
   "requisitos_mecanico": {
