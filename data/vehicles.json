@@ -4735,7 +4735,7 @@
         "tecnico": "Marco",
         "tiempo_entrega_aprox": "1 día",
         "fecha_inicio": "2026-11-16",
-        "estado": "recibido",
+        "estado": "diagnostico",
         "actualizado": "2026-11-16",
         "pago": {
           "estado": "no_pagado",
@@ -4791,11 +4791,14 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-11-16T00:37:11.170Z"
+          "recibido": "2026-11-16T00:37:11.170Z",
+          "diagnostico": "2026-11-16T16:32:41.808Z"
         },
         "adjuntos": {
           "recibido": {
-            "fotos": [],
+            "fotos": [
+              "uploads/X18/20261116-103242-recibido-0-13707.jpg"
+            ],
             "documentos": []
           },
           "diagnostico": {
