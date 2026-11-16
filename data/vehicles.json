@@ -4732,7 +4732,7 @@
         "nota_interna": "",
         "km": 123456,
         "costo": 2500,
-        "tecnico": "Marco / Humberto",
+        "tecnico": "Marco",
         "tiempo_entrega_aprox": "1 día",
         "fecha_inicio": "2026-11-16",
         "estado": "recibido",
@@ -4820,8 +4820,7 @@
           }
         },
         "mecanicos": [
-          "mec_mwij5t3gtuyx",
-          "mec_mwipdd5mj703"
+          "mec_mwij5t3gtuyx"
         ]
       },
       "servicios": []
