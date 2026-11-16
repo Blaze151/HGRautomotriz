@@ -4845,6 +4845,15 @@
       "activo": true,
       "creado": "2026-11-16T03:25:23.228Z",
       "telefono": "8711044146"
+    },
+    {
+      "id": "mec_mwipdd5mj703",
+      "nombre": "Humberto",
+      "salt": "ba06dc113fb5d61c",
+      "pin_hash": "9c442a063d15343ff8e0fd7fc71cb2700fccd62f83cd4e8a0d8f4fcd47f33473",
+      "activo": true,
+      "creado": "2026-11-16T03:27:30.018Z",
+      "telefono": "8713588027"
     }
   ],
   "requisitos_mecanico": {
