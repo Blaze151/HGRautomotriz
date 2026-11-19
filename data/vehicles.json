@@ -4983,7 +4983,10 @@
             "documentos": []
           },
           "diagnostico": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A17/20261119-114653-diagnostico-0-21163.jpg",
+              "uploads/A17/20261119-114656-diagnostico-1-21162.jpg"
+            ],
             "documentos": []
           },
           "en_proceso": {
