@@ -4902,16 +4902,16 @@
         "tecnico": "Manuel",
         "tiempo_entrega_aprox": "3-5 días",
         "fecha_inicio": "2026-11-19",
-        "estado": "recibido",
+        "estado": "diagnostico",
         "actualizado": "2026-11-19",
         "pago": {
           "estado": "no_pagado",
           "metodo": null
         },
         "orden_recepcion": {
-          "enviado": false,
+          "enviado": true,
           "aceptado": false,
-          "fecha_envio": null,
+          "fecha_envio": "2026-11-19",
           "fecha_aceptado": null,
           "inventario": {
             "exteriores": {
@@ -4934,7 +4934,8 @@
             },
             "gasolina": 50,
             "danos_notas": "Faros muy quemados por el Sol mica opaca, presenta material anterior, se recomienda pulir ambos faros.\n\nGolpe puerta izquierda delantera con rastros de color amarillo.\n\nGolpe puerta izquierda trasera y costado.\n\nCalavera izquierda quebrada."
-          }
+          },
+          "pdf_path": "uploads/A17/20261118-204322-informe-recepcion.pdf"
         },
         "cotizacion": {
           "enviado": false,
@@ -4958,7 +4959,8 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-11-19T02:34:46.170Z"
+          "recibido": "2026-11-19T02:34:46.170Z",
+          "diagnostico": "2026-11-19T02:43:38.811Z"
         },
         "adjuntos": {
           "recibido": {
