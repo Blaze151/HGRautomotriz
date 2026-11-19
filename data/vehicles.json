@@ -4938,18 +4938,33 @@
           "pdf_path": "uploads/A17/20261118-204322-informe-recepcion.pdf"
         },
         "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
+          "enviado": true,
+          "fecha_envio": "2026-11-19",
+          "pdf_path": "uploads/A17/20261119-114937-cotizacion.pdf",
           "items": [
             {
-              "concepto": "",
+              "concepto": "Cambio por espiga nueva lado derecho",
               "cantidad": 1,
-              "costo_unitario": null
+              "costo_unitario": 1400
+            },
+            {
+              "concepto": "Cambio triceta nueva",
+              "cantidad": 1,
+              "costo_unitario": 900
+            },
+            {
+              "concepto": "Cubrepolvos",
+              "cantidad": 1,
+              "costo_unitario": 200
+            },
+            {
+              "concepto": "Mano de obra",
+              "cantidad": 1,
+              "costo_unitario": 1300
             }
           ],
-          "incluir_iva": true,
-          "observaciones": "",
+          "incluir_iva": false,
+          "observaciones": "La espiga y tricera estaban dañadas por uso normal, no se aprecia algún golpe fuerte de colisión.",
           "aceptado": false,
           "fecha_aceptado": null
         },
