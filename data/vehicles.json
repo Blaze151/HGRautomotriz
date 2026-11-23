@@ -5077,9 +5077,9 @@
         },
         "orden_recepcion": {
           "enviado": true,
-          "aceptado": false,
+          "aceptado": true,
           "fecha_envio": "2026-11-23",
-          "fecha_aceptado": null,
+          "fecha_aceptado": "2026-11-23",
           "inventario": {
             "exteriores": {
               "antena": "si",
@@ -5110,12 +5110,42 @@
           "pdf_path": null,
           "items": [
             {
-              "concepto": "",
+              "concepto": "Interesado y pintura en tapa cajuela",
               "cantidad": 1,
-              "costo_unitario": null
+              "costo_unitario": 2500
+            },
+            {
+              "concepto": "Pintura de toldo",
+              "cantidad": 1,
+              "costo_unitario": 900
+            },
+            {
+              "concepto": "Pintura en puerta trasera izquierda",
+              "cantidad": 1,
+              "costo_unitario": 600
+            },
+            {
+              "concepto": "Limpieza de interiores",
+              "cantidad": 1,
+              "costo_unitario": 500
+            },
+            {
+              "concepto": "Lavado de motor en seco",
+              "cantidad": 1,
+              "costo_unitario": 600
+            },
+            {
+              "concepto": "Afinación menor cambio de aceite sintético 5w 30 y filtros de aire y aceite",
+              "cantidad": 1,
+              "costo_unitario": 2300
+            },
+            {
+              "concepto": "Pulida de faros",
+              "cantidad": 1,
+              "costo_unitario": 400
             }
           ],
-          "incluir_iva": true,
+          "incluir_iva": false,
           "observaciones": "",
           "aceptado": false,
           "fecha_aceptado": null
