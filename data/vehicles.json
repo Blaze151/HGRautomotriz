@@ -5105,9 +5105,9 @@
           "pdf_path": "uploads/A18/20261123-163510-informe-recepcion.pdf"
         },
         "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
+          "enviado": true,
+          "fecha_envio": "2026-11-23",
+          "pdf_path": "uploads/A18/20261123-164309-cotizacion.pdf",
           "items": [
             {
               "concepto": "Interesado y pintura en tapa cajuela",
