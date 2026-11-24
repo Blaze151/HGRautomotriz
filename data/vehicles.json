@@ -5072,8 +5072,10 @@
         "estado": "en_proceso",
         "actualizado": "2026-11-24",
         "pago": {
-          "estado": "no_pagado",
-          "metodo": null
+          "estado": "a_deber",
+          "metodo": "transferencia",
+          "monto_pagado": 4000,
+          "saldo_pendiente": 3800
         },
         "orden_recepcion": {
           "enviado": true,
