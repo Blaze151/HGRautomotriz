@@ -5209,7 +5209,9 @@
             "documentos": []
           },
           "pago": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A18/20261123-190020-pago-0-32639.jpg"
+            ],
             "documentos": []
           }
         },
