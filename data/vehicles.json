@@ -5247,7 +5247,11 @@
             "documentos": []
           },
           "en_proceso": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A18/20261125-231211-en_proceso-0-34571.jpg",
+              "uploads/A18/20261125-231213-en_proceso-1-36003.jpg",
+              "uploads/A18/20261125-231216-en_proceso-2-36287.jpg"
+            ],
             "documentos": []
           },
           "listo": {
