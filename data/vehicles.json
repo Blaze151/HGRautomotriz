@@ -3150,178 +3150,180 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": {
-        "id": "svc_1792170641715",
-        "folio": "A024",
-        "tipo": "Pintura General, detallado y otros servicios",
-        "descripcion": "Pintura General\nRetapizado de asientos\nPintura de caja\nPintura en tubería de carga",
-        "nota_interna": "",
-        "km": 337557,
-        "costo": null,
-        "tecnico": "Sergio Guardado",
-        "tiempo_entrega_aprox": "12 - 15 días",
-        "fecha_inicio": "2026-10-16",
-        "estado": "diagnostico",
-        "actualizado": "2026-10-16",
-        "pago": {
-          "estado": "no_pagado",
-          "metodo": null
-        },
-        "orden_recepcion": {
-          "enviado": true,
-          "aceptado": false,
-          "fecha_envio": "2026-10-16",
-          "fecha_aceptado": null,
-          "inventario": {
-            "exteriores": {
-              "antena": "si",
-              "espejo_lateral": "si",
-              "cristales": "si",
-              "emblema": "si",
-              "tapon_ruedas": "si",
-              "molduras_completas": "si",
-              "tapon_gasolina": "si"
-            },
-            "accesorios": {
-              "gato": "no",
-              "maneral_gato": "no",
-              "llave_ruedas": "no",
-              "estuche_herramientas": "no",
-              "triangulo_seguridad": "no",
-              "llanta_refaccion": "si",
-              "extinguidor": "no"
-            },
-            "gasolina": 25,
-            "danos_notas": "Carrocería muy dañada\nChapa de tapa de caja de carga dañada, no abre\nTapicería de asientos delanteros en mal estado"
-          },
-          "pdf_path": "uploads/A3/20261016-111856-informe-recepcion.pdf"
-        },
-        "cotizacion": {
-          "enviado": true,
-          "fecha_envio": "2026-10-16",
-          "pdf_path": "uploads/A3/20261016-113339-cotizacion.pdf",
-          "items": [
-            {
-              "concepto": "Enderezado de golpes en carrocería, tapa trasera muy dañada, techo muy golpeado, defensa trasera derecha",
-              "cantidad": 1,
-              "costo_unitario": 4500
-            },
-            {
-              "concepto": "Pintura en toda la carrocería exterior color blanco",
-              "cantidad": 1,
-              "costo_unitario": 14000
-            },
-            {
-              "concepto": "Reparación de chapa de tapa trasera",
-              "cantidad": 1,
-              "costo_unitario": 500
-            },
-            {
-              "concepto": "Instalación de dos tubos de 98 cm como refuerzo en tubería de carga en la parte del techo de la camioneta y  pintura en toda la estructura",
-              "cantidad": 1,
-              "costo_unitario": 1500
-            },
-            {
-              "concepto": "Retapizado de asientos delanteros con relleno de espuma automotriz",
-              "cantidad": 1,
-              "costo_unitario": 3500
-            },
-            {
-              "concepto": "Instalación de estéreo nuevo de pantalla de 10 pulgadas",
-              "cantidad": 1,
-              "costo_unitario": 4500
-            },
-            {
-              "concepto": "Limpieza general, de interiores a profundidad, limpieza sin agua a motor",
-              "cantidad": 1,
-              "costo_unitario": 500
-            },
-            {
-              "concepto": "Pulida de faros principales",
-              "cantidad": 1,
-              "costo_unitario": 400
-            },
-            {
-              "concepto": "Calavera trasera derecha nueva con instalación",
-              "cantidad": 1,
-              "costo_unitario": 2200
-            }
-          ],
-          "incluir_iva": true,
-          "observaciones": "",
-          "aceptado": false,
-          "fecha_aceptado": null
-        },
-        "informe_trabajo": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null
-        },
-        "fechas_etapa": {
-          "recibido": "2026-10-16T17:10:41.715Z",
-          "diagnostico": "2026-10-16T17:15:47.440Z"
-        },
-        "adjuntos": {
-          "recibido": {
-            "fotos": [
-              "uploads/A3/20261016-111352-recibido-0-1000861964.jpg",
-              "uploads/A3/20261016-111354-recibido-1-1000861963.jpg",
-              "uploads/A3/20261016-111356-recibido-2-1000861951.jpg",
-              "uploads/A3/20261016-111357-recibido-3-1000861952.jpg",
-              "uploads/A3/20261016-111400-recibido-4-1000861954.jpg",
-              "uploads/A3/20261016-111402-recibido-5-1000861955.jpg",
-              "uploads/A3/20261016-111404-recibido-6-1000861948.jpg",
-              "uploads/A3/20261016-111405-recibido-7-1000861947.jpg",
-              "uploads/A3/20261016-111407-recibido-8-1000861946.jpg",
-              "uploads/A3/20261016-111409-recibido-9-1000861945.jpg",
-              "uploads/A3/20261016-111411-recibido-10-1000861934.jpg",
-              "uploads/A3/20261016-111413-recibido-11-1000861933.jpg",
-              "uploads/A3/20261016-111415-recibido-12-1000861932.jpg"
-            ],
-            "documentos": []
-          },
-          "diagnostico": {
-            "fotos": [
-              "uploads/A3/20261016-111906-diagnostico-0-1000861934.jpg",
-              "uploads/A3/20261016-111907-diagnostico-1-1000861936.jpg",
-              "uploads/A3/20261016-111909-diagnostico-2-1000861938.jpg",
-              "uploads/A3/20261016-111911-diagnostico-3-1000861951.jpg",
-              "uploads/A3/20261016-111913-diagnostico-4-1000861952.jpg",
-              "uploads/A3/20261016-111915-diagnostico-5-1000861960.jpg",
-              "uploads/A3/20261016-111917-diagnostico-6-1000861958.jpg",
-              "uploads/A3/20261016-111919-diagnostico-7-1000861961.jpg",
-              "uploads/A3/20261016-111921-diagnostico-8-1000879123.jpg",
-              "uploads/A3/20261016-111924-diagnostico-9-1000886950.jpg",
-              "uploads/A3/20261016-111926-diagnostico-10-1000879077.jpg",
-              "uploads/A3/20261016-111928-diagnostico-11-1000879122.jpg",
-              "uploads/A3/20261016-111930-diagnostico-12-1000861946.jpg",
-              "uploads/A3/20261016-111931-diagnostico-13-1000861947.jpg",
-              "uploads/A3/20261016-113239-diagnostico-0-1000889851.jpg",
-              "uploads/A3/20261016-113241-diagnostico-1-1000886994.jpg",
-              "uploads/A3/20261016-113243-diagnostico-2-1000861951.jpg",
-              "uploads/A3/20261016-113245-diagnostico-3-1000861945.jpg"
-            ],
-            "documentos": []
-          },
-          "en_proceso": {
-            "fotos": [],
-            "documentos": []
-          },
-          "listo": {
-            "fotos": [],
-            "documentos": []
-          },
-          "recogido": {
-            "fotos": [],
-            "documentos": []
-          },
+      "servicio_actual": null,
+      "servicios": [
+        {
+          "id": "svc_1792170641715",
+          "fecha": "2026-11-26",
+          "folio": "A024",
+          "tipo": "Pintura General, detallado y otros servicios",
+          "descripcion": "Pintura General\nRetapizado de asientos\nPintura de caja\nPintura en tubería de carga",
+          "nota_interna": "",
+          "km": 337557,
+          "costo": null,
+          "tecnico": "Sergio Guardado",
+          "tiempo_entrega_aprox": "12 - 15 días",
+          "fecha_inicio": "2026-10-16",
           "pago": {
-            "fotos": [],
-            "documentos": []
-          }
+            "estado": "no_pagado",
+            "metodo": "transferencia"
+          },
+          "orden_recepcion": {
+            "enviado": true,
+            "aceptado": false,
+            "fecha_envio": "2026-10-16",
+            "fecha_aceptado": null,
+            "inventario": {
+              "exteriores": {
+                "antena": "si",
+                "espejo_lateral": "si",
+                "cristales": "si",
+                "emblema": "si",
+                "tapon_ruedas": "si",
+                "molduras_completas": "si",
+                "tapon_gasolina": "si"
+              },
+              "accesorios": {
+                "gato": "no",
+                "maneral_gato": "no",
+                "llave_ruedas": "no",
+                "estuche_herramientas": "no",
+                "triangulo_seguridad": "no",
+                "llanta_refaccion": "si",
+                "extinguidor": "no"
+              },
+              "gasolina": 25,
+              "danos_notas": "Carrocería muy dañada\nChapa de tapa de caja de carga dañada, no abre\nTapicería de asientos delanteros en mal estado"
+            },
+            "pdf_path": "uploads/A3/20261016-111856-informe-recepcion.pdf"
+          },
+          "cotizacion": {
+            "enviado": true,
+            "fecha_envio": "2026-10-16",
+            "pdf_path": "uploads/A3/20261016-113339-cotizacion.pdf",
+            "items": [
+              {
+                "concepto": "Enderezado de golpes en carrocería, tapa trasera muy dañada, techo muy golpeado, defensa trasera derecha",
+                "cantidad": 1,
+                "costo_unitario": 4500
+              },
+              {
+                "concepto": "Pintura en toda la carrocería exterior color blanco",
+                "cantidad": 1,
+                "costo_unitario": 14000
+              },
+              {
+                "concepto": "Reparación de chapa de tapa trasera",
+                "cantidad": 1,
+                "costo_unitario": 500
+              },
+              {
+                "concepto": "Instalación de dos tubos de 98 cm como refuerzo en tubería de carga en la parte del techo de la camioneta y  pintura en toda la estructura",
+                "cantidad": 1,
+                "costo_unitario": 1500
+              },
+              {
+                "concepto": "Retapizado de asientos delanteros con relleno de espuma automotriz",
+                "cantidad": 1,
+                "costo_unitario": 3500
+              },
+              {
+                "concepto": "Instalación de estéreo nuevo de pantalla de 10 pulgadas",
+                "cantidad": 1,
+                "costo_unitario": 4500
+              },
+              {
+                "concepto": "Limpieza general, de interiores a profundidad, limpieza sin agua a motor",
+                "cantidad": 1,
+                "costo_unitario": 500
+              },
+              {
+                "concepto": "Pulida de faros principales",
+                "cantidad": 1,
+                "costo_unitario": 400
+              },
+              {
+                "concepto": "Calavera trasera derecha nueva con instalación",
+                "cantidad": 1,
+                "costo_unitario": 2200
+              }
+            ],
+            "incluir_iva": true,
+            "observaciones": "",
+            "aceptado": false,
+            "fecha_aceptado": null
+          },
+          "informe_trabajo": {
+            "enviado": false,
+            "fecha_envio": null,
+            "pdf_path": null
+          },
+          "fechas_etapa": {
+            "recibido": "2026-10-16T17:10:41.715Z",
+            "diagnostico": "2026-10-16T17:15:47.440Z"
+          },
+          "adjuntos": {
+            "recibido": {
+              "fotos": [
+                "uploads/A3/20261016-111352-recibido-0-1000861964.jpg",
+                "uploads/A3/20261016-111354-recibido-1-1000861963.jpg",
+                "uploads/A3/20261016-111356-recibido-2-1000861951.jpg",
+                "uploads/A3/20261016-111357-recibido-3-1000861952.jpg",
+                "uploads/A3/20261016-111400-recibido-4-1000861954.jpg",
+                "uploads/A3/20261016-111402-recibido-5-1000861955.jpg",
+                "uploads/A3/20261016-111404-recibido-6-1000861948.jpg",
+                "uploads/A3/20261016-111405-recibido-7-1000861947.jpg",
+                "uploads/A3/20261016-111407-recibido-8-1000861946.jpg",
+                "uploads/A3/20261016-111409-recibido-9-1000861945.jpg",
+                "uploads/A3/20261016-111411-recibido-10-1000861934.jpg",
+                "uploads/A3/20261016-111413-recibido-11-1000861933.jpg",
+                "uploads/A3/20261016-111415-recibido-12-1000861932.jpg"
+              ],
+              "documentos": []
+            },
+            "diagnostico": {
+              "fotos": [
+                "uploads/A3/20261016-111906-diagnostico-0-1000861934.jpg",
+                "uploads/A3/20261016-111907-diagnostico-1-1000861936.jpg",
+                "uploads/A3/20261016-111909-diagnostico-2-1000861938.jpg",
+                "uploads/A3/20261016-111911-diagnostico-3-1000861951.jpg",
+                "uploads/A3/20261016-111913-diagnostico-4-1000861952.jpg",
+                "uploads/A3/20261016-111915-diagnostico-5-1000861960.jpg",
+                "uploads/A3/20261016-111917-diagnostico-6-1000861958.jpg",
+                "uploads/A3/20261016-111919-diagnostico-7-1000861961.jpg",
+                "uploads/A3/20261016-111921-diagnostico-8-1000879123.jpg",
+                "uploads/A3/20261016-111924-diagnostico-9-1000886950.jpg",
+                "uploads/A3/20261016-111926-diagnostico-10-1000879077.jpg",
+                "uploads/A3/20261016-111928-diagnostico-11-1000879122.jpg",
+                "uploads/A3/20261016-111930-diagnostico-12-1000861946.jpg",
+                "uploads/A3/20261016-111931-diagnostico-13-1000861947.jpg",
+                "uploads/A3/20261016-113239-diagnostico-0-1000889851.jpg",
+                "uploads/A3/20261016-113241-diagnostico-1-1000886994.jpg",
+                "uploads/A3/20261016-113243-diagnostico-2-1000861951.jpg",
+                "uploads/A3/20261016-113245-diagnostico-3-1000861945.jpg"
+              ],
+              "documentos": []
+            },
+            "en_proceso": {
+              "fotos": [],
+              "documentos": []
+            },
+            "listo": {
+              "fotos": [],
+              "documentos": []
+            },
+            "recogido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "pago": {
+              "fotos": [],
+              "documentos": []
+            }
+          },
+          "mecanicos": []
         }
-      },
-      "servicios": []
+      ]
     },
     "A04": {
       "id": "A04",
