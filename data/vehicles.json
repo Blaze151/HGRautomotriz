@@ -4943,24 +4943,39 @@
           "pdf_path": "uploads/A17/20261119-114937-cotizacion.pdf",
           "items": [
             {
-              "concepto": "Cambio por espiga nueva lado derecho",
+              "concepto": "Espiga nueva lado derecho",
               "cantidad": 1,
               "costo_unitario": 1400
             },
             {
-              "concepto": "Cambio triceta nueva",
+              "concepto": "Triceta derecha nueva",
               "cantidad": 1,
               "costo_unitario": 900
             },
             {
               "concepto": "Cubrepolvos",
-              "cantidad": 1,
+              "cantidad": 2,
               "costo_unitario": 200
             },
             {
               "concepto": "Mano de obra",
+              "cantidad": 2,
+              "costo_unitario": 1300
+            },
+            {
+              "concepto": "Reparación de A/C",
               "cantidad": 1,
               "costo_unitario": 1300
+            },
+            {
+              "concepto": "Instalación de 4 llantas usadas, balanceo y montadas",
+              "cantidad": 1,
+              "costo_unitario": 3400
+            },
+            {
+              "concepto": "Espiga lado izquierdo nueva",
+              "cantidad": 1,
+              "costo_unitario": 1400
             }
           ],
           "incluir_iva": false,
