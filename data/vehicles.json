@@ -4958,11 +4958,6 @@
               "costo_unitario": 200
             },
             {
-              "concepto": "Mano de obra",
-              "cantidad": 2,
-              "costo_unitario": 1300
-            },
-            {
               "concepto": "Reparación de A/C",
               "cantidad": 1,
               "costo_unitario": 1300
@@ -4976,6 +4971,11 @@
               "concepto": "Espiga lado izquierdo nueva",
               "cantidad": 1,
               "costo_unitario": 1400
+            },
+            {
+              "concepto": "Calavera izquierda",
+              "cantidad": 1,
+              "costo_unitario": 2600
             }
           ],
           "incluir_iva": false,
