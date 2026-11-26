@@ -4755,9 +4755,9 @@
         },
         "orden_recepcion": {
           "enviado": true,
-          "aceptado": false,
+          "aceptado": true,
           "fecha_envio": "2026-11-19",
-          "fecha_aceptado": null,
+          "fecha_aceptado": "2026-11-26",
           "inventario": {
             "exteriores": {
               "antena": "si",
@@ -4845,8 +4845,8 @@
           ],
           "incluir_iva": false,
           "observaciones": "La espiga y triceta del lado derecho estaban dañadas por uso normal, no se aprecia algún golpe fuerte de colisión.\nEspiga del lado izquierdo se cambió porque también presentó ruidos.\nSe cambió la calavera izquierda por una nueva.\nSe pulieron los faros delanteros y la calavera derecha para que se vieran mucho mejor.",
-          "aceptado": false,
-          "fecha_aceptado": null
+          "aceptado": true,
+          "fecha_aceptado": "2026-11-26"
         },
         "informe_trabajo": {
           "enviado": false,
