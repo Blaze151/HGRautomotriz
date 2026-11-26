@@ -5202,12 +5202,17 @@
           "pdf_path": null,
           "items": [
             {
-              "concepto": "",
+              "concepto": "AFINACIÓN MAYOR  Revisión con escáner  Cambio de aceite sintético 5W/30 Filtro de aceite p/ aceite sintético Filtro de aire  Bujías  Filtro de gasolina  Limpieza de cuerpo de aceleración Programacion de cuerpo de aceleración Lavado de inyectores  Lavado exterior /interior y aspirado  Lavado de motor  Limpieza de sensores y válvulas:  Sensor MAF  Válvula PCV  Válvula IAC  Sensor IAT  Revisión de puntos de seguridad  Relleno de niveles fluidos",
               "cantidad": 1,
-              "costo_unitario": null
+              "costo_unitario": 2800
+            },
+            {
+              "concepto": "Reparación golpe frontal",
+              "cantidad": 1,
+              "costo_unitario": 1000
             }
           ],
-          "incluir_iva": true,
+          "incluir_iva": false,
           "observaciones": "",
           "aceptado": false,
           "fecha_aceptado": null
@@ -5243,7 +5248,11 @@
           "diagnostico": {
             "fotos": [
               "uploads/A21/20261126-140515-diagnostico-0-17957234786338675519361935765305.jpg",
-              "uploads/A21/20261126-140518-diagnostico-1-17957234968169168201223385505201.jpg"
+              "uploads/A21/20261126-140518-diagnostico-1-17957234968169168201223385505201.jpg",
+              "uploads/A21/20261126-141118-diagnostico-0-20261126_133410.jpg",
+              "uploads/A21/20261126-141120-diagnostico-1-20261126_133300.jpg",
+              "uploads/A21/20261126-141122-diagnostico-2-20261126_133056.jpg",
+              "uploads/A21/20261126-141124-diagnostico-3-20261126_133046.jpg"
             ],
             "documentos": []
           },
