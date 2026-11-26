@@ -4976,10 +4976,30 @@
               "concepto": "Calavera izquierda",
               "cantidad": 1,
               "costo_unitario": 2600
+            },
+            {
+              "concepto": "Limpieza exterior e interior",
+              "cantidad": 1,
+              "costo_unitario": 0
+            },
+            {
+              "concepto": "Quitar rayón de puerta piloto",
+              "cantidad": 1,
+              "costo_unitario": 0
+            },
+            {
+              "concepto": "Pulida de faros",
+              "cantidad": 1,
+              "costo_unitario": null
+            },
+            {
+              "concepto": "Se pinceleo con pintura negra golpe de puerta trasera izquierda",
+              "cantidad": 1,
+              "costo_unitario": null
             }
           ],
           "incluir_iva": false,
-          "observaciones": "La espiga y tricera estaban dañadas por uso normal, no se aprecia algún golpe fuerte de colisión.",
+          "observaciones": "La espiga y triceta del lado derecho estaban dañadas por uso normal, no se aprecia algún golpe fuerte de colisión.\nEspiga del lado izquierdo se cambió porque también presentó ruidos.\nSe cambió la calavera izquierda por una nueva.\nSe pulieron los faros delanteros y la calavera derecha para que se vieran mucho mejor.",
           "aceptado": false,
           "fecha_aceptado": null
         },
