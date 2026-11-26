@@ -4939,8 +4939,8 @@
         },
         "cotizacion": {
           "enviado": true,
-          "fecha_envio": "2026-11-19",
-          "pdf_path": "uploads/A17/20261119-114937-cotizacion.pdf",
+          "fecha_envio": "2026-11-26",
+          "pdf_path": "uploads/A17/20261125-225851-cotizacion.pdf",
           "items": [
             {
               "concepto": "Espiga nueva lado derecho",
