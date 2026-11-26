@@ -5197,9 +5197,9 @@
           "pdf_path": "uploads/A21/20261126-140359-informe-recepcion.pdf"
         },
         "cotizacion": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null,
+          "enviado": true,
+          "fecha_envio": "2026-11-26",
+          "pdf_path": "uploads/A21/20261126-141148-cotizacion.pdf",
           "items": [
             {
               "concepto": "AFINACIÓN MAYOR  Revisión con escáner  Cambio de aceite sintético 5W/30 Filtro de aceite p/ aceite sintético Filtro de aire  Bujías  Filtro de gasolina  Limpieza de cuerpo de aceleración Programacion de cuerpo de aceleración Lavado de inyectores  Lavado exterior /interior y aspirado  Lavado de motor  Limpieza de sensores y válvulas:  Sensor MAF  Válvula PCV  Válvula IAC  Sensor IAT  Revisión de puntos de seguridad  Relleno de niveles fluidos",
