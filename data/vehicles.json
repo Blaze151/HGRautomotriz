@@ -3165,7 +3165,7 @@
           "tiempo_entrega_aprox": "12 - 15 días",
           "fecha_inicio": "2026-10-16",
           "pago": {
-            "estado": "no_pagado",
+            "estado": "pagado",
             "metodo": "transferencia"
           },
           "orden_recepcion": {
