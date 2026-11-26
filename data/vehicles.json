@@ -4745,8 +4745,8 @@
         "tecnico": "Manuel",
         "tiempo_entrega_aprox": "3-5 días",
         "fecha_inicio": "2026-11-19",
-        "estado": "diagnostico",
-        "actualizado": "2026-11-19",
+        "estado": "listo",
+        "actualizado": "2026-11-26",
         "pago": {
           "estado": "a_deber",
           "metodo": "transferencia",
@@ -4855,7 +4855,8 @@
         },
         "fechas_etapa": {
           "recibido": "2026-11-19T02:34:46.170Z",
-          "diagnostico": "2026-11-19T02:43:38.811Z"
+          "diagnostico": "2026-11-19T02:43:38.811Z",
+          "listo": "2026-11-26T05:15:05.846Z"
         },
         "adjuntos": {
           "recibido": {
