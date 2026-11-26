@@ -5241,7 +5241,10 @@
             "documentos": []
           },
           "diagnostico": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A21/20261126-140515-diagnostico-0-17957234786338675519361935765305.jpg",
+              "uploads/A21/20261126-140518-diagnostico-1-17957234968169168201223385505201.jpg"
+            ],
             "documentos": []
           },
           "en_proceso": {
