@@ -5161,16 +5161,16 @@
         "tecnico": "Sergio",
         "tiempo_entrega_aprox": "2 dias",
         "fecha_inicio": "2026-11-26",
-        "estado": "recibido",
+        "estado": "diagnostico",
         "actualizado": "2026-11-26",
         "pago": {
           "estado": "no_pagado",
           "metodo": null
         },
         "orden_recepcion": {
-          "enviado": false,
+          "enviado": true,
           "aceptado": false,
-          "fecha_envio": null,
+          "fecha_envio": "2026-11-26",
           "fecha_aceptado": null,
           "inventario": {
             "exteriores": {
@@ -5193,7 +5193,8 @@
             },
             "gasolina": 25,
             "danos_notas": "Choque frontal"
-          }
+          },
+          "pdf_path": "uploads/A21/20261126-140359-informe-recepcion.pdf"
         },
         "cotizacion": {
           "enviado": false,
@@ -5217,7 +5218,8 @@
           "pdf_path": null
         },
         "fechas_etapa": {
-          "recibido": "2026-11-26T20:00:08.629Z"
+          "recibido": "2026-11-26T20:00:08.629Z",
+          "diagnostico": "2026-11-26T20:04:03.031Z"
         },
         "adjuntos": {
           "recibido": {
