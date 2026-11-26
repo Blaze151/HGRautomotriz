@@ -4905,8 +4905,10 @@
         "estado": "diagnostico",
         "actualizado": "2026-11-19",
         "pago": {
-          "estado": "no_pagado",
-          "metodo": null
+          "estado": "a_deber",
+          "metodo": "transferencia",
+          "monto_pagado": 8000,
+          "saldo_pendiente": 3400
         },
         "orden_recepcion": {
           "enviado": true,
