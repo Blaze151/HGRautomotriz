@@ -5214,8 +5214,8 @@
           ],
           "incluir_iva": false,
           "observaciones": "",
-          "aceptado": false,
-          "fecha_aceptado": null
+          "aceptado": true,
+          "fecha_aceptado": "2026-11-27"
         },
         "informe_trabajo": {
           "enviado": false,
@@ -5280,7 +5280,12 @@
             "documentos": []
           },
           "listo": {
-            "fotos": [],
+            "fotos": [
+              "uploads/A21/20261126-200457-listo-0-17957449814368496625374362720705.jpg",
+              "uploads/A21/20261126-200500-listo-1-17957449986805714411167742707638.jpg",
+              "uploads/A21/20261126-200502-listo-2-17957450307137094159271408632448.jpg",
+              "uploads/A21/20261126-200505-listo-3-17957450835927731649361095408669.jpg"
+            ],
             "documentos": []
           },
           "recogido": {
