@@ -5161,7 +5161,7 @@
         "tecnico": "Sergio",
         "tiempo_entrega_aprox": "2 dias",
         "fecha_inicio": "2026-11-26",
-        "estado": "listo",
+        "estado": "recogido",
         "actualizado": "2026-11-27",
         "pago": {
           "estado": "no_pagado",
@@ -5226,7 +5226,8 @@
           "recibido": "2026-11-26T20:00:08.629Z",
           "diagnostico": "2026-11-26T20:04:03.031Z",
           "en_proceso": "2026-11-26T20:17:39.284Z",
-          "listo": "2026-11-27T02:05:17.550Z"
+          "listo": "2026-11-27T02:05:17.550Z",
+          "recogido": "2026-11-27T04:26:02.149Z"
         },
         "adjuntos": {
           "recibido": {
