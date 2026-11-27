@@ -5165,7 +5165,7 @@
         "actualizado": "2026-11-27",
         "pago": {
           "estado": "no_pagado",
-          "metodo": null
+          "metodo": "transferencia"
         },
         "orden_recepcion": {
           "enviado": true,
