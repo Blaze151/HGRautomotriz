@@ -5150,160 +5150,161 @@
         "filtro_aire": "",
         "filtro_aceite": ""
       },
-      "servicio_actual": {
-        "id": "svc_1795723208628",
-        "folio": "A040",
-        "tipo": "Reparación choque frontal , servicio",
-        "descripcion": "",
-        "nota_interna": "",
-        "km": 215479,
-        "costo": null,
-        "tecnico": "Sergio",
-        "tiempo_entrega_aprox": "2 dias",
-        "fecha_inicio": "2026-11-26",
-        "estado": "recogido",
-        "actualizado": "2026-11-27",
-        "pago": {
-          "estado": "no_pagado",
-          "metodo": "transferencia"
-        },
-        "orden_recepcion": {
-          "enviado": true,
-          "aceptado": false,
-          "fecha_envio": "2026-11-26",
-          "fecha_aceptado": null,
-          "inventario": {
-            "exteriores": {
-              "antena": "si",
-              "espejo_lateral": "si",
-              "cristales": "si",
-              "emblema": "si",
-              "tapon_ruedas": "no",
-              "molduras_completas": "no",
-              "tapon_gasolina": "si"
-            },
-            "accesorios": {
-              "gato": "no",
-              "maneral_gato": "no",
-              "llave_ruedas": "no",
-              "estuche_herramientas": "no",
-              "triangulo_seguridad": "no",
-              "llanta_refaccion": "no",
-              "extinguidor": "no"
-            },
-            "gasolina": 25,
-            "danos_notas": "Choque frontal"
-          },
-          "pdf_path": "uploads/A21/20261126-140359-informe-recepcion.pdf"
-        },
-        "cotizacion": {
-          "enviado": true,
-          "fecha_envio": "2026-11-26",
-          "pdf_path": "uploads/A21/20261126-141148-cotizacion.pdf",
-          "items": [
-            {
-              "concepto": "AFINACIÓN MAYOR  Revisión con escáner  Cambio de aceite sintético 5W/30 Filtro de aceite p/ aceite sintético Filtro de aire  Bujías  Filtro de gasolina  Limpieza de cuerpo de aceleración Programacion de cuerpo de aceleración Lavado de inyectores  Lavado exterior /interior y aspirado  Lavado de motor  Limpieza de sensores y válvulas:  Sensor MAF  Válvula PCV  Válvula IAC  Sensor IAT  Revisión de puntos de seguridad  Relleno de niveles fluidos",
-              "cantidad": 1,
-              "costo_unitario": 2800
-            },
-            {
-              "concepto": "Reparación golpe frontal",
-              "cantidad": 1,
-              "costo_unitario": 1000
-            }
-          ],
-          "incluir_iva": false,
-          "observaciones": "",
-          "aceptado": true,
-          "fecha_aceptado": "2026-11-27"
-        },
-        "informe_trabajo": {
-          "enviado": false,
-          "fecha_envio": null,
-          "pdf_path": null
-        },
-        "fechas_etapa": {
-          "recibido": "2026-11-26T20:00:08.629Z",
-          "diagnostico": "2026-11-26T20:04:03.031Z",
-          "en_proceso": "2026-11-26T20:17:39.284Z",
-          "listo": "2026-11-27T02:05:17.550Z",
-          "recogido": "2026-11-27T04:26:02.149Z"
-        },
-        "adjuntos": {
-          "recibido": {
-            "fotos": [
-              "uploads/A21/20261126-140253-recibido-0-20261126_133046.jpg",
-              "uploads/A21/20261126-140256-recibido-1-20261126_133056.jpg",
-              "uploads/A21/20261126-140259-recibido-2-20261126_133051.jpg",
-              "uploads/A21/20261126-140304-recibido-3-20261126_133034.jpg",
-              "uploads/A21/20261126-140306-recibido-4-20261126_133025.jpg",
-              "uploads/A21/20261126-140308-recibido-5-20261126_133103.jpg",
-              "uploads/A21/20261126-140311-recibido-6-20261126_133109.jpg",
-              "uploads/A21/20261126-140313-recibido-7-20261126_133256.jpg",
-              "uploads/A21/20261126-140316-recibido-8-20261126_133300.jpg",
-              "uploads/A21/20261126-140318-recibido-9-20261126_133410.jpg",
-              "uploads/A21/20261126-140321-recibido-10-20261126_133017.jpg",
-              "uploads/A21/20261126-140323-recibido-11-20261126_133010.jpg",
-              "uploads/A21/20261126-140331-recibido-12-20261126_132959.jpg"
-            ],
-            "documentos": []
-          },
-          "diagnostico": {
-            "fotos": [
-              "uploads/A21/20261126-140515-diagnostico-0-17957234786338675519361935765305.jpg",
-              "uploads/A21/20261126-140518-diagnostico-1-17957234968169168201223385505201.jpg",
-              "uploads/A21/20261126-141118-diagnostico-0-20261126_133410.jpg",
-              "uploads/A21/20261126-141120-diagnostico-1-20261126_133300.jpg",
-              "uploads/A21/20261126-141122-diagnostico-2-20261126_133056.jpg",
-              "uploads/A21/20261126-141124-diagnostico-3-20261126_133046.jpg"
-            ],
-            "documentos": []
-          },
-          "en_proceso": {
-            "fotos": [
-              "uploads/A21/20261126-141449-en_proceso-0-17957240308662454647724005354372.jpg",
-              "uploads/A21/20261126-141452-en_proceso-1-17957240498188465595929216963089.jpg",
-              "uploads/A21/20261126-141453-en_proceso-2-17957240572343631123661409408079.jpg",
-              "uploads/A21/20261126-141455-en_proceso-3-17957240669228938454744608017311.jpg",
-              "uploads/A21/20261126-192140-en_proceso-0-20261126_190450.jpg",
-              "uploads/A21/20261126-192142-en_proceso-1-IMG-20261126-WA0020.jpg",
-              "uploads/A21/20261126-192144-en_proceso-2-20261126_183305.jpg",
-              "uploads/A21/20261126-192146-en_proceso-3-20261126_183301.jpg",
-              "uploads/A21/20261126-192148-en_proceso-4-20261126_183250.jpg",
-              "uploads/A21/20261126-192150-en_proceso-5-20261126_183222.jpg",
-              "uploads/A21/20261126-192152-en_proceso-6-20261126_174711.jpg",
-              "uploads/A21/20261126-192154-en_proceso-7-20261126_174708.jpg",
-              "uploads/A21/20261126-192156-en_proceso-8-20261126_174704.jpg",
-              "uploads/A21/20261126-192158-en_proceso-9-20261126_174653.jpg",
-              "uploads/A21/20261126-192200-en_proceso-10-20261126_174400.jpg",
-              "uploads/A21/20261126-192205-en_proceso-11-20261126_172400.jpg",
-              "uploads/A21/20261126-192208-en_proceso-12-20261126_172227.jpg"
-            ],
-            "documentos": []
-          },
-          "listo": {
-            "fotos": [
-              "uploads/A21/20261126-200457-listo-0-17957449814368496625374362720705.jpg",
-              "uploads/A21/20261126-200500-listo-1-17957449986805714411167742707638.jpg",
-              "uploads/A21/20261126-200502-listo-2-17957450307137094159271408632448.jpg",
-              "uploads/A21/20261126-200505-listo-3-17957450835927731649361095408669.jpg"
-            ],
-            "documentos": []
-          },
-          "recogido": {
-            "fotos": [],
-            "documentos": []
-          },
+      "servicio_actual": null,
+      "servicios": [
+        {
+          "id": "svc_1795723208628",
+          "fecha": "2026-11-27",
+          "folio": "A040",
+          "tipo": "Reparación choque frontal , servicio",
+          "descripcion": "",
+          "nota_interna": "",
+          "km": 215479,
+          "costo": null,
+          "tecnico": "Sergio",
+          "tiempo_entrega_aprox": "2 dias",
+          "fecha_inicio": "2026-11-26",
           "pago": {
-            "fotos": [],
-            "documentos": []
-          }
-        },
-        "mecanicos": [
-          "mec_mwipanbsl6zy"
-        ]
-      },
-      "servicios": []
+            "estado": "pagado",
+            "metodo": "transferencia"
+          },
+          "orden_recepcion": {
+            "enviado": true,
+            "aceptado": false,
+            "fecha_envio": "2026-11-26",
+            "fecha_aceptado": null,
+            "inventario": {
+              "exteriores": {
+                "antena": "si",
+                "espejo_lateral": "si",
+                "cristales": "si",
+                "emblema": "si",
+                "tapon_ruedas": "no",
+                "molduras_completas": "no",
+                "tapon_gasolina": "si"
+              },
+              "accesorios": {
+                "gato": "no",
+                "maneral_gato": "no",
+                "llave_ruedas": "no",
+                "estuche_herramientas": "no",
+                "triangulo_seguridad": "no",
+                "llanta_refaccion": "no",
+                "extinguidor": "no"
+              },
+              "gasolina": 25,
+              "danos_notas": "Choque frontal"
+            },
+            "pdf_path": "uploads/A21/20261126-140359-informe-recepcion.pdf"
+          },
+          "cotizacion": {
+            "enviado": true,
+            "fecha_envio": "2026-11-26",
+            "pdf_path": "uploads/A21/20261126-141148-cotizacion.pdf",
+            "items": [
+              {
+                "concepto": "AFINACIÓN MAYOR  Revisión con escáner  Cambio de aceite sintético 5W/30 Filtro de aceite p/ aceite sintético Filtro de aire  Bujías  Filtro de gasolina  Limpieza de cuerpo de aceleración Programacion de cuerpo de aceleración Lavado de inyectores  Lavado exterior /interior y aspirado  Lavado de motor  Limpieza de sensores y válvulas:  Sensor MAF  Válvula PCV  Válvula IAC  Sensor IAT  Revisión de puntos de seguridad  Relleno de niveles fluidos",
+                "cantidad": 1,
+                "costo_unitario": 2800
+              },
+              {
+                "concepto": "Reparación golpe frontal",
+                "cantidad": 1,
+                "costo_unitario": 1000
+              }
+            ],
+            "incluir_iva": false,
+            "observaciones": "",
+            "aceptado": true,
+            "fecha_aceptado": "2026-11-27"
+          },
+          "informe_trabajo": {
+            "enviado": false,
+            "fecha_envio": null,
+            "pdf_path": null
+          },
+          "fechas_etapa": {
+            "recibido": "2026-11-26T20:00:08.629Z",
+            "diagnostico": "2026-11-26T20:04:03.031Z",
+            "en_proceso": "2026-11-26T20:17:39.284Z",
+            "listo": "2026-11-27T02:05:17.550Z",
+            "recogido": "2026-11-27T04:26:02.149Z"
+          },
+          "adjuntos": {
+            "recibido": {
+              "fotos": [
+                "uploads/A21/20261126-140253-recibido-0-20261126_133046.jpg",
+                "uploads/A21/20261126-140256-recibido-1-20261126_133056.jpg",
+                "uploads/A21/20261126-140259-recibido-2-20261126_133051.jpg",
+                "uploads/A21/20261126-140304-recibido-3-20261126_133034.jpg",
+                "uploads/A21/20261126-140306-recibido-4-20261126_133025.jpg",
+                "uploads/A21/20261126-140308-recibido-5-20261126_133103.jpg",
+                "uploads/A21/20261126-140311-recibido-6-20261126_133109.jpg",
+                "uploads/A21/20261126-140313-recibido-7-20261126_133256.jpg",
+                "uploads/A21/20261126-140316-recibido-8-20261126_133300.jpg",
+                "uploads/A21/20261126-140318-recibido-9-20261126_133410.jpg",
+                "uploads/A21/20261126-140321-recibido-10-20261126_133017.jpg",
+                "uploads/A21/20261126-140323-recibido-11-20261126_133010.jpg",
+                "uploads/A21/20261126-140331-recibido-12-20261126_132959.jpg"
+              ],
+              "documentos": []
+            },
+            "diagnostico": {
+              "fotos": [
+                "uploads/A21/20261126-140515-diagnostico-0-17957234786338675519361935765305.jpg",
+                "uploads/A21/20261126-140518-diagnostico-1-17957234968169168201223385505201.jpg",
+                "uploads/A21/20261126-141118-diagnostico-0-20261126_133410.jpg",
+                "uploads/A21/20261126-141120-diagnostico-1-20261126_133300.jpg",
+                "uploads/A21/20261126-141122-diagnostico-2-20261126_133056.jpg",
+                "uploads/A21/20261126-141124-diagnostico-3-20261126_133046.jpg"
+              ],
+              "documentos": []
+            },
+            "en_proceso": {
+              "fotos": [
+                "uploads/A21/20261126-141449-en_proceso-0-17957240308662454647724005354372.jpg",
+                "uploads/A21/20261126-141452-en_proceso-1-17957240498188465595929216963089.jpg",
+                "uploads/A21/20261126-141453-en_proceso-2-17957240572343631123661409408079.jpg",
+                "uploads/A21/20261126-141455-en_proceso-3-17957240669228938454744608017311.jpg",
+                "uploads/A21/20261126-192140-en_proceso-0-20261126_190450.jpg",
+                "uploads/A21/20261126-192142-en_proceso-1-IMG-20261126-WA0020.jpg",
+                "uploads/A21/20261126-192144-en_proceso-2-20261126_183305.jpg",
+                "uploads/A21/20261126-192146-en_proceso-3-20261126_183301.jpg",
+                "uploads/A21/20261126-192148-en_proceso-4-20261126_183250.jpg",
+                "uploads/A21/20261126-192150-en_proceso-5-20261126_183222.jpg",
+                "uploads/A21/20261126-192152-en_proceso-6-20261126_174711.jpg",
+                "uploads/A21/20261126-192154-en_proceso-7-20261126_174708.jpg",
+                "uploads/A21/20261126-192156-en_proceso-8-20261126_174704.jpg",
+                "uploads/A21/20261126-192158-en_proceso-9-20261126_174653.jpg",
+                "uploads/A21/20261126-192200-en_proceso-10-20261126_174400.jpg",
+                "uploads/A21/20261126-192205-en_proceso-11-20261126_172400.jpg",
+                "uploads/A21/20261126-192208-en_proceso-12-20261126_172227.jpg"
+              ],
+              "documentos": []
+            },
+            "listo": {
+              "fotos": [
+                "uploads/A21/20261126-200457-listo-0-17957449814368496625374362720705.jpg",
+                "uploads/A21/20261126-200500-listo-1-17957449986805714411167742707638.jpg",
+                "uploads/A21/20261126-200502-listo-2-17957450307137094159271408632448.jpg",
+                "uploads/A21/20261126-200505-listo-3-17957450835927731649361095408669.jpg"
+              ],
+              "documentos": []
+            },
+            "recogido": {
+              "fotos": [],
+              "documentos": []
+            },
+            "pago": {
+              "fotos": [],
+              "documentos": []
+            }
+          },
+          "mecanicos": [
+            "mec_mwipanbsl6zy"
+          ]
+        }
+      ]
     }
   },
   "folio_counter": 40,
